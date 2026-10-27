@@ -1,0 +1,1186 @@
+[
+  {
+    "id": 1,
+    "pattern": "-(으)ㄴ 채(로)",
+    "meaning": "while~",
+    "exampleKo": "버스 안에서 앉은 채로 잠자버렸다.",
+    "exampleEn": "I fell asleep while sitting on the bus.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 2,
+    "pattern": "-(으)ㄴ/는 걸 보니(까)",
+    "meaning": "since~",
+    "exampleKo": "돈을 많이 쓰는 걸 보니 부자인가 봐.",
+    "exampleEn": "He must be rich since he is using a lot of money.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 3,
+    "pattern": "-(으)ㄴ/는 김에",
+    "meaning": "On the way~",
+    "exampleKo": "마트에 가는 김에 친정에도 갔다.",
+    "exampleEn": "On the way to the supermarket, I visited my parent's house.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 4,
+    "pattern": "-(으)ㄴ/는 만큼",
+    "meaning": "as much as (doing sth.)",
+    "exampleKo": "웃는 만큼 인생은 행복해진다.",
+    "exampleEn": "Life becomes more fun as much as you laugh.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 5,
+    "pattern": "-(으)ㄴ/는 반면(에)",
+    "meaning": "Although ~",
+    "exampleKo": "택시는 편리한 반면에 지하철보다 비싸다.",
+    "exampleEn": "Although a taxi is convenient, it is more expensive than a subway.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 6,
+    "pattern": "-(으)ㄴ/는 법이다",
+    "meaning": "(It) will~",
+    "exampleKo": "계속 노력한다면 개선되는 법이다.",
+    "exampleEn": "If you keep making an effort, you will get better.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 7,
+    "pattern": "-(으)ㄴ/는 탓에",
+    "meaning": "Because~ (negative)",
+    "exampleKo": "운동 안 한 탓에 살이 많이 쪘어요.",
+    "exampleEn": "Because I did not work out, I gained a lot of weight.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 8,
+    "pattern": "-(으)ㄴ/는/(으)ㄹ 모양이다",
+    "meaning": "seems like~",
+    "exampleKo": "비가 오는 모양이다.",
+    "exampleEn": "It seems like it is raining.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 9,
+    "pattern": "-(으)ㄴ/는/(으)ㄹ 셈이다",
+    "meaning": "going to do~",
+    "exampleKo": "어떻게 할 셈이야?",
+    "exampleEn": "What are you going to do?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 10,
+    "pattern": "-(으)ㄴ/는/(으)ㄹ 줄 몰랐다",
+    "meaning": "did not know~",
+    "exampleKo": "공무원 시험에 합격할 줄 몰랐다.",
+    "exampleEn": "I did not know that I passed the civil servant examination.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 11,
+    "pattern": "-(으)ㄴ/는/(으)ㄹ 줄 알았다",
+    "meaning": "thought~",
+    "exampleKo": "아저씨는 연예인이 된 줄 알았는데.",
+    "exampleEn": "I thought he became a celebrity.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 12,
+    "pattern": "-(으)ㄴ/는/(으)ㄹ지",
+    "meaning": "what/who/where~",
+    "exampleKo": "지갑을 어디서 잃어버렸는지 모르겠다.",
+    "exampleEn": "I don't know where I lost my wallet.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 13,
+    "pattern": "-(으)ㄴ/는걸(요)",
+    "meaning": "~ though.",
+    "exampleKo": "아직 졸린걸요.",
+    "exampleEn": "I am still sleepy though.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 14,
+    "pattern": "-(으)ㄴ/는데(요)",
+    "meaning": "But ~",
+    "exampleKo": "이 요리는 생각보다 맛있는데요.",
+    "exampleEn": "But this dish is more delicious than I thought.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 15,
+    "pattern": "-(으)ㄴ/는들",
+    "meaning": "Even if~",
+    "exampleKo": "내가 간들 소용없다.",
+    "exampleEn": "Even if I go, it won't help much.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 16,
+    "pattern": "-(으)ㄴ가 보다",
+    "meaning": "assume ~",
+    "exampleKo": "그 사람은 선생님인가 봐요.",
+    "exampleEn": "I assume he is a teacher.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 17,
+    "pattern": "-(으)ㄴ가(요)?",
+    "meaning": "Is ~?",
+    "exampleKo": "여자 친구는 예쁜가요?",
+    "exampleEn": "Is your girlfriend pretty?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 18,
+    "pattern": "-(으)나 마나",
+    "meaning": "no use to-",
+    "exampleKo": "길을 물어보나 마나예요.",
+    "exampleEn": "It is no use to ask him the direction.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 19,
+    "pattern": "-(으)니까(요)",
+    "meaning": "Because~ (neutral)",
+    "exampleKo": "열심히 공부하니까 성적이 우수하다.",
+    "exampleEn": "Because he studies hard, his grades are excellent.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 20,
+    "pattern": "-(으)니만큼",
+    "meaning": "As~",
+    "exampleKo": "노력하니만큼 결과가 기대된다.",
+    "exampleEn": "As I tried hard, I am looking forward to the result.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 21,
+    "pattern": "-(으)ㄹ 겸  (해서)",
+    "meaning": "And also",
+    "exampleKo": "그에게 사과할 겸 해서 편지를 썼어요.",
+    "exampleEn": "I wrote a letter and also apologize.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 22,
+    "pattern": "-(으)ㄹ 리가 없다",
+    "meaning": "There is no way~",
+    "exampleKo": "돈이 부족할 리가 없어요.",
+    "exampleEn": "There is no way the money is not enough.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 23,
+    "pattern": "-(으)ㄹ 만하다",
+    "meaning": "It is worth~",
+    "exampleKo": "타개책을 시도할 만합니다.",
+    "exampleEn": "It is worth attempting a breakthrough.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 24,
+    "pattern": "-(으)ㄹ 뻔하다",
+    "meaning": "almost ~",
+    "exampleKo": "과음해서 의식을 잃어버릴 뻔했어요.",
+    "exampleEn": "I almost lost consciousness from overdrinking.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 25,
+    "pattern": "-(으)ㄹ 뿐만 아니라",
+    "meaning": "not only",
+    "exampleKo": "그 애기는 걸을 뿐만 아니라 잘 달린다.",
+    "exampleEn": "That baby not only walks well but also runs well.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 26,
+    "pattern": "-(으)ㄹ 뿐이다",
+    "meaning": "just~",
+    "exampleKo": "국적이 다를 뿐이지 같은 인간이에요.",
+    "exampleEn": "We just have different nationalities, but we're the same human beings.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 27,
+    "pattern": "-(으)ㄹ 수밖에 (없다)",
+    "meaning": "no other choice than~",
+    "exampleKo": "시간이 없으니까 뛰어갈 수밖에 없다.",
+    "exampleEn": "We don't have much time, so there is no other choice than running.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 28,
+    "pattern": "-(으)ㄹ 정도(로)",
+    "meaning": "(verb)ingly",
+    "exampleKo": "놀라울 정도로 크게 외쳤다.",
+    "exampleEn": "He shouted surprisingly loud.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 29,
+    "pattern": "-(으)ㄹ 지경이다",
+    "meaning": "almost~",
+    "exampleKo": "그녀가 화낼 지경이에요.",
+    "exampleEn": "She's almost mad.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 30,
+    "pattern": "-(으)ㄹ 테니(까)",
+    "meaning": "will~ so~",
+    "exampleKo": "빨래를 널 테니까 애기를 봐줘.",
+    "exampleEn": "I will dry the laundry, so please look after the child.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 31,
+    "pattern": "-(으)ㄹ 텐데",
+    "meaning": "should be~",
+    "exampleKo": "거기에 있을 텐데.",
+    "exampleEn": "It should be there.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 32,
+    "pattern": "-(으)ㄹ걸 (그랬다)",
+    "meaning": "should have~",
+    "exampleKo": "우산 가져올 걸.",
+    "exampleEn": "I should have brought an umbrella.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 33,
+    "pattern": "-(으)ㄹ까 말까",
+    "meaning": "whether~ or not",
+    "exampleKo": "길을 건널까 말까 고민했다.",
+    "exampleEn": "I wondered whether I should cross the street or not.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 34,
+    "pattern": "-(으)ㄹ수록",
+    "meaning": "(adj.)er as~",
+    "exampleKo": "가면 갈수록 그 산길은 힘들어져요.",
+    "exampleEn": "The mountain road is getting harder as you go further.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 35,
+    "pattern": "-(으)ㄹ지(도) 모르다",
+    "meaning": "don't know~",
+    "exampleKo": "어떻게 편집해야할지 잘 모르겠어요.",
+    "exampleEn": "I don't know how I should edit it.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 36,
+    "pattern": "-(으)ㄹ지라도",
+    "meaning": "no matter~",
+    "exampleKo": "아무리 어려울지라도 저는 해냅니다.",
+    "exampleEn": "No matter how tough it is, I will complete it.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 37,
+    "pattern": "-(으)라고 하다",
+    "meaning": "told me to~",
+    "exampleKo": "아버지가 빨리 손을 씻으라고 했어요.",
+    "exampleEn": "Dad told me to wash my hands quickly.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 38,
+    "pattern": "-(으)려다가",
+    "meaning": "is about to~",
+    "exampleKo": "외출하려다가 누나가 찾아왔다.",
+    "exampleEn": "When I was about to go out, my sister came in.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 39,
+    "pattern": "-(으)려던 참이다",
+    "meaning": "is about to",
+    "exampleKo": "학교에 가려던 참이에요.",
+    "exampleEn": "I was about to go to school.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 40,
+    "pattern": "-(으)려면",
+    "meaning": "in order to~",
+    "exampleKo": "기념사진을 찍으려면 배경은 아름다워야한다.",
+    "exampleEn": "In order to take a memorial picture, the background has to be beautiful.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 41,
+    "pattern": "-(으)로 인해(서)",
+    "meaning": "due to~",
+    "exampleKo": "그 이야기는 인터넷으로 인해 확산되었다.",
+    "exampleEn": "The story is widespread due to the Internet.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 42,
+    "pattern": "-(으)로서",
+    "meaning": "as a~",
+    "exampleKo": "선배로서 충고 하나 할게.",
+    "exampleEn": "Let me give you some advice as a senior.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 43,
+    "pattern": "-(으)며",
+    "meaning": "and~",
+    "exampleKo": "내 남자친구는 피아노도 잘 치며 노래도 잘한다.",
+    "exampleEn": "My boyfriend is good at playing piano and singing.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 44,
+    "pattern": "-(으)면 되다",
+    "meaning": "should be okay~",
+    "exampleKo": "웹사이트에서 접수하시면 됩니다.",
+    "exampleEn": "It should be okay if you apply on the website.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 45,
+    "pattern": "-(으)므로",
+    "meaning": "as (sub.) needs to~",
+    "exampleKo": "아침 일찍 일어나야 하므로 이제 잡니다.",
+    "exampleEn": "As I need to wake up early in the morning, I am going to sleep now.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 46,
+    "pattern": "-(이)나 -(이)나 할 것 없이",
+    "meaning": "regardless of~",
+    "exampleKo": "아이나 어른이나 할 것 없이 건강은 중요하다.",
+    "exampleEn": "Regardless of whether you are a child or an adult, health is important.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 47,
+    "pattern": "-거든",
+    "meaning": "because",
+    "exampleKo": "어려보여도 제가 상사거든요.",
+    "exampleEn": "Because I am your boss even though I look young.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 48,
+    "pattern": "-게 하다",
+    "meaning": "makes~",
+    "exampleKo": "동생은 나를 짜증나게 한다.",
+    "exampleEn": "My younger brother makes me annoyed.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 49,
+    "pattern": "-고 나니(까)",
+    "meaning": "after~",
+    "exampleKo": "푹 쉬고 나니 열이 내려갔어요.",
+    "exampleEn": "After resting well, the fever got better.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 50,
+    "pattern": "-고 나면",
+    "meaning": "after~",
+    "exampleKo": "청소하고 나면 기분이 상쾌해진다.",
+    "exampleEn": "After cleaning the house, I feel refreshed.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 51,
+    "pattern": "-고 나서",
+    "meaning": "after~",
+    "exampleKo": "이메일 먼저 확인하고 나서 연락드릴게요.",
+    "exampleEn": "After checking the e-mail first, I will contact with you.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 52,
+    "pattern": "-고 말고(요)",
+    "meaning": "of course~",
+    "exampleKo": "한국여행은 재미있고 말고요.",
+    "exampleEn": "Of course, traveling to Korea is fun.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 53,
+    "pattern": "-고 말다",
+    "meaning": "ended up~",
+    "exampleKo": "밤늦게까지 게임하고 말았어요.",
+    "exampleEn": "I ended up playing a game until late at night.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 54,
+    "pattern": "-고 보면",
+    "meaning": "actually~ once~",
+    "exampleKo": "배우고 보면 한국어는 쉬워요.",
+    "exampleEn": "Korean is actually easy to learn once you start learning.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 55,
+    "pattern": "-곤 하다",
+    "meaning": "used to often~",
+    "exampleKo": "우리는 분식점 앞에서 만나곤 했다.",
+    "exampleEn": "We used to meet often in front of the cafeteria.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 56,
+    "pattern": "-기 쉽다",
+    "meaning": "easy to~",
+    "exampleKo": "저 선생님의 수업은 이해하기 쉬워요.",
+    "exampleEn": "That teacher's class is easy to understand.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 57,
+    "pattern": "-기 십상이다",
+    "meaning": "tend to~",
+    "exampleKo": "젊은 운전자는 실수하기 십상이다.",
+    "exampleEn": "Young drivers tend to make mistakes.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 58,
+    "pattern": "-기 어렵다",
+    "meaning": "difficult to~",
+    "exampleKo": "작은 신발로는 걷기 어렵다.",
+    "exampleEn": "It is difficult to walk in small shoes.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 59,
+    "pattern": "-기 위해(서)",
+    "meaning": "to~",
+    "exampleKo": "문제를 해결하기 위해서 다같이 모였다.",
+    "exampleEn": "We gathered together to resolve the issue.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 60,
+    "pattern": "-기/게 마련이다",
+    "meaning": "will~",
+    "exampleKo": "준비 안 하면 후회하기 마련이다.",
+    "exampleEn": "If you don't prepare, you will regret it.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 61,
+    "pattern": "-기는 하지만",
+    "meaning": "but~",
+    "exampleKo": "한국어는 어렵기는 하지만 재미도 있어요.",
+    "exampleEn": "Korean is difficult but fun to learn.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 62,
+    "pattern": "-기는(요)",
+    "meaning": "no need to~",
+    "exampleKo": "고맙기는요. 별말씀을요.",
+    "exampleEn": "No need to thank me. (No problem.)",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 63,
+    "pattern": "-기만 하면 (되다)",
+    "meaning": "as long as~",
+    "exampleKo": "단어를 외우기만 하면 100점이다.",
+    "exampleEn": "As long as you memorize the vocabulary, you will get a full score.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 64,
+    "pattern": "-기에(는)",
+    "meaning": "not good for~",
+    "exampleKo": "축구하기에는 날씨가 안 좋아요.",
+    "exampleEn": "The weather is not good for playing soccer.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 65,
+    "pattern": "-길래",
+    "meaning": "since~",
+    "exampleKo": "남편이 레스토랑에 안 오길래 난 바람맞은 줄 알았다.",
+    "exampleEn": "Since my husband did not come to a restaurant, I thought he cancel the plan at the last minute.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 66,
+    "pattern": "-ㄴ/는 척하다",
+    "meaning": "pretend to~",
+    "exampleKo": "그 후배는 착한 척한다.",
+    "exampleEn": "He is pretending to be nice.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 67,
+    "pattern": "-ㄴ/는다",
+    "meaning": "is~",
+    "exampleKo": "후식에 딸기를 먹는다.",
+    "exampleEn": "I am eating strawberries for dessert.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 68,
+    "pattern": "-ㄴ/는다거나",
+    "meaning": "or~",
+    "exampleKo": "독서한다거나 영화를 보러 간다.",
+    "exampleEn": "I read some books or go watch a movie.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 69,
+    "pattern": "-ㄴ/는다고 치다",
+    "meaning": "if~",
+    "exampleKo": "일본에 간다고 치면 어디로 갈까요?",
+    "exampleEn": "If I go to Japan, where should I visit?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 70,
+    "pattern": "-ㄴ/는다고 하다",
+    "meaning": "say~",
+    "exampleKo": "제 친구는 병원에 안 다닌다고 했어요.",
+    "exampleEn": "My friend said that he didn't go to the hospital.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 71,
+    "pattern": "-ㄴ/는다고 해도",
+    "meaning": "even if~",
+    "exampleKo": "금연한다고 해도 잘 안 된다.",
+    "exampleEn": "Even if I am trying to quit smoking, it is difficult.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 72,
+    "pattern": "-ㄴ/는다고(요)",
+    "meaning": "seems like~",
+    "exampleKo": "내일은 비가 온다고 해요.",
+    "exampleEn": "It seems like tomorrow is going to rain.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 73,
+    "pattern": "-ㄴ/는다니",
+    "meaning": "that~",
+    "exampleKo": "5개국어를 한다니 대단합니다.",
+    "exampleEn": "It's amazing that you can speak 5 languages.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 74,
+    "pattern": "-ㄴ/는다니까",
+    "meaning": "I'm telling you~",
+    "exampleKo": "아무리 이유를 설명해도 화를 낸다니까.",
+    "exampleEn": "I'm telling you no matter how many times I explain the reason, he is still angry.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 75,
+    "pattern": "-ㄴ/는다더니",
+    "meaning": "but~",
+    "exampleKo": "우리 남편은 일찍 돌아온다더니 아직도 집에 안 왔다.",
+    "exampleEn": "My husband said he will be back soon, but he was still not home.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 76,
+    "pattern": "-ㄴ/는다더라",
+    "meaning": "seems like~",
+    "exampleKo": "내일은 눈이 온다더라.",
+    "exampleEn": "It seems like tomorrow is going to snow.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 77,
+    "pattern": "-ㄴ/는다던데",
+    "meaning": "heard~",
+    "exampleKo": "잘 생겼다던데 정말이야?",
+    "exampleEn": "I heard he is handsome, is that true?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 78,
+    "pattern": "-ㄴ/는다면",
+    "meaning": "if~",
+    "exampleKo": "운동선수가 되고 싶다면 전문학원에 등록해야 돼.",
+    "exampleEn": "If you want to be an athlete, you need to register for a professional academy.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 79,
+    "pattern": "-ㄴ/는다면서(요)?",
+    "meaning": "heard~",
+    "exampleKo": "너 영어 잘한다면서?",
+    "exampleEn": "I heard you are good at English?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 80,
+    "pattern": "-나 보다",
+    "meaning": "seem to~",
+    "exampleKo": "둘이 사귀나 보다.",
+    "exampleEn": "They seem to be dating.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 81,
+    "pattern": "-나(요)?",
+    "meaning": "is it?",
+    "exampleKo": "여기서 타면 되나?",
+    "exampleEn": "Is it here where we ride?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 82,
+    "pattern": "-냐고 하다",
+    "meaning": "ask",
+    "exampleKo": "엄마가 시험은 언제냐고 저한테 물어봤어요.",
+    "exampleEn": "My mom asked me when the exam was.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 83,
+    "pattern": "-느라고",
+    "meaning": "for~",
+    "exampleKo": "숙제하느라고 삼촌을 만날 시간이 없었다.",
+    "exampleEn": "I was busy with homework that I didn't have time to meet my uncle.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 84,
+    "pattern": "-는 (도)중에",
+    "meaning": "in the middle of~",
+    "exampleKo": "연기하는 중에 기침해버렸다.",
+    "exampleEn": "I accidentally coughed when I was in the middle of acting.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 85,
+    "pattern": "-는 길에",
+    "meaning": "on the way~",
+    "exampleKo": "집에 가는 길에 빵을 사 왔어요.",
+    "exampleEn": "I bought bread on my way home.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 86,
+    "pattern": "-는 대로",
+    "meaning": "as~",
+    "exampleKo": "바라는 대로 이루어진다.",
+    "exampleEn": "You can become as you wish.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 87,
+    "pattern": "-는 대신(에)",
+    "meaning": "instead of~",
+    "exampleKo": "술을 마시는 대신에 녹차를 마시자.",
+    "exampleEn": "Let's drink green tea instead of alcohol.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 88,
+    "pattern": "-는 덕분에",
+    "meaning": "thanks to~",
+    "exampleKo": "버스가 늦게 온 덕분에 탈 수 있었다.",
+    "exampleEn": "I was able to ride the bus thanks to the fact that it was delayed.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 89,
+    "pattern": "-는 바람에",
+    "meaning": "because~",
+    "exampleKo": "공부를 안 하는 바람에 성적이 떨어졌어요.",
+    "exampleEn": "My grade dropped because I did not study.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 90,
+    "pattern": "-는 사이에",
+    "meaning": "when~",
+    "exampleKo": "제가 없는 사이에 택배가 오면 받아주세요.",
+    "exampleEn": "If the delivery comes when I am not home, please take it for me.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 91,
+    "pattern": "-는 셈 치다",
+    "meaning": "considering~",
+    "exampleKo": "연습하는 셈 치고 오디션에 간다.",
+    "exampleEn": "I take auditions considering them as practices.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 92,
+    "pattern": "-는 수(가) 있다",
+    "meaning": "can~",
+    "exampleKo": "전문가라고 해도 실패하는 수가 있어요.",
+    "exampleEn": "Even an expert can fail.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 93,
+    "pattern": "-는 수밖에 (없다)",
+    "meaning": "no other choice than~",
+    "exampleKo": "가족으로부터 돈을 빌리는 수밖에 없다.",
+    "exampleEn": "There is no other choice than to borrow money from my family.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 94,
+    "pattern": "-는 중이다",
+    "meaning": "on the way~",
+    "exampleKo": "지금 직장에 가는 중이에요.",
+    "exampleEn": "I am on the way going to my office.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 95,
+    "pattern": "-는 통에",
+    "meaning": "because~",
+    "exampleKo": "아이들이 떠드는 통에 집중할 수 없었어요.",
+    "exampleEn": "I was not able to concentrate because the children were too noisy.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 96,
+    "pattern": "-는 편이다",
+    "meaning": "tend to~",
+    "exampleKo": "저는 돈을 아끼는 편이에요.",
+    "exampleEn": "I tend to save money.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 97,
+    "pattern": "-는 한",
+    "meaning": "as far as~",
+    "exampleKo": "내가 아는 한 그것은 사실이에요.",
+    "exampleEn": "As far as I know, it is true.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 98,
+    "pattern": "-는 한편",
+    "meaning": "also~",
+    "exampleKo": "회사에 다니는 한편 부업도 한다.",
+    "exampleEn": "I am working at a company and also doing a side job.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 99,
+    "pattern": "-는/은커녕",
+    "meaning": "even~",
+    "exampleKo": "술은커녕 차도 못 마셨어요.",
+    "exampleEn": "I could not drink alcohol, not even tea.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 100,
+    "pattern": "-는구나",
+    "meaning": "I see~",
+    "exampleKo": "이 애기는 벌써 걷는구나.",
+    "exampleEn": "The baby is already walking.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 101,
+    "pattern": "-니/냐?",
+    "meaning": "do you~?",
+    "exampleKo": "기분 나쁘니?",
+    "exampleEn": "Do you feel uncomfortable?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 102,
+    "pattern": "-다(가) 보니(까)",
+    "meaning": "while focusing~ already~",
+    "exampleKo": "작업하다 보니까 새벽이 됐어요.",
+    "exampleEn": "While I was focusing on my work, it was already morning.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 103,
+    "pattern": "-다(가) 보면",
+    "meaning": "when focusing~",
+    "exampleKo": "심호흡하다 보면 마음이 차분해집니다.",
+    "exampleEn": "When you focus on breathing deeply, you will feel calmer.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 104,
+    "pattern": "-다가",
+    "meaning": "while~",
+    "exampleKo": "스마트폰을 사용하다가 모르면 물어보세요.",
+    "exampleEn": "When you don't know something while using a smartphone, please come and ask.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 105,
+    "pattern": "-다시피",
+    "meaning": "as~",
+    "exampleKo": "보다시피 요즘 직장인들은 바빠요.",
+    "exampleEn": "As you can see, employees these days are busy.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 106,
+    "pattern": "-대로",
+    "meaning": "as~",
+    "exampleKo": "교수님의 말씀대로 하자.",
+    "exampleEn": "Let's do as the professor told us.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 107,
+    "pattern": "-더군(요)",
+    "meaning": "I heard~",
+    "exampleKo": "따님에게 귀여운 이름을 지었더군요.",
+    "exampleEn": "I heard that you have given your daughter a very cute name.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 108,
+    "pattern": "-더니",
+    "meaning": "~and then",
+    "exampleKo": "강의에 늦었더니 강사님이 야단치셨다.",
+    "exampleEn": "I was late for class and then the teacher scolded me.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 109,
+    "pattern": "-더라",
+    "meaning": "I heard~",
+    "exampleKo": "그 남자는 경찰에 잡혔더라.",
+    "exampleEn": "I heard the guy was caught by the police.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 110,
+    "pattern": "-더라고(요)",
+    "meaning": "was~",
+    "exampleKo": "서울은 도쿄보다 춥더라고요.",
+    "exampleEn": "Seoul was colder than Tokyo.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 111,
+    "pattern": "-더라도",
+    "meaning": "even~",
+    "exampleKo": "힘겨운 일이 있더라도 참는다.",
+    "exampleEn": "I endure even when I am having a hard time.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 112,
+    "pattern": "-던",
+    "meaning": "used to~",
+    "exampleKo": "내가 다니던 중학교는 지금은 없어요.",
+    "exampleEn": "The middle school I used to go to is not there anymore.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 113,
+    "pattern": "-던가(요)?",
+    "meaning": "Is~?",
+    "exampleKo": "오늘 결혼기념일이던가?",
+    "exampleEn": "Is today our wedding anniversary?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 114,
+    "pattern": "-던데",
+    "meaning": "I found (that)",
+    "exampleKo": "길이 막히던데 사고라도 났나?",
+    "exampleEn": "I found a traffic jam. Was there an accident?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 115,
+    "pattern": "-도록",
+    "meaning": "so that~",
+    "exampleKo": "이 은혜를 갚도록 항상 최선을 다하겠습니다.",
+    "exampleEn": "I will try my best to return this favor.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 116,
+    "pattern": "-든지",
+    "meaning": "no matter~",
+    "exampleKo": "좋든지 싫든지 수능 봐야 한다.",
+    "exampleEn": "No matter I wish or not, I need to take the university entrance examination.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 117,
+    "pattern": "-듯이",
+    "meaning": "like~",
+    "exampleKo": "미친 듯이 춤췄다.",
+    "exampleEn": "I danced like a crazy person.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 118,
+    "pattern": "(이)라도",
+    "meaning": "rather~",
+    "exampleKo": "이 문제지라도 풀어볼래요?",
+    "exampleEn": "Would you like to rather solve this problem?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 119,
+    "pattern": "-만 못하다",
+    "meaning": "not as~",
+    "exampleKo": "중고는 신제품만 못해요.",
+    "exampleEn": "Second-hand is not as good as a new product.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 120,
+    "pattern": "-아/어 보이다",
+    "meaning": "seem~",
+    "exampleKo": "얼굴표정이 어제보다 밝아 보여요.",
+    "exampleEn": "You seem to feel better than yesterday.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 121,
+    "pattern": "-아/어서 그런지",
+    "meaning": "probably becase~",
+    "exampleKo": "나이가 들어서 그런지 몸이 예전같지 않다.",
+    "exampleEn": "I feel not as strong as before probably because I am getting old.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 122,
+    "pattern": "-아/어도",
+    "meaning": "even~",
+    "exampleKo": "설명 들어도 이해 못 하겠어요.",
+    "exampleEn": "I can't understand even after listening to the explanation.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 123,
+    "pattern": "-아/어라",
+    "meaning": "please~",
+    "exampleKo": "공을 던져라.",
+    "exampleEn": "Please throw the ball.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 124,
+    "pattern": "-아/어야",
+    "meaning": "when~",
+    "exampleKo": "술자리에는 친한 친구가 있어야 재미있다.",
+    "exampleEn": "Drinking is fun when you have a close friend.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 125,
+    "pattern": "-아/어야지",
+    "meaning": "should~",
+    "exampleKo": "일찍 결혼해야지.",
+    "exampleEn": "You should marry quickly.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 126,
+    "pattern": "-아/어지다",
+    "meaning": "becoming~",
+    "exampleKo": "인터넷으로 세계는 가까워지고 있어요.",
+    "exampleEn": "The world is becoming closer through the Internet.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 127,
+    "pattern": "-았/었더라면",
+    "meaning": "would have~",
+    "exampleKo": "은행에서 돈을 찾았더라면 좋았을 텐데.",
+    "exampleEn": "It would have been better if I withdrew the money from a bank.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 128,
+    "pattern": "-았/었던 것 같다",
+    "meaning": "think~",
+    "exampleKo": "걔는 취업했던 것 같다.",
+    "exampleEn": "I think he got a job.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 129,
+    "pattern": "-았/었으면 하다",
+    "meaning": "wish~",
+    "exampleKo": "점심은 라면이었으면 해.",
+    "exampleEn": "I wish the lunch menu is ramen.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 130,
+    "pattern": "(이)야말로",
+    "meaning": "the~",
+    "exampleKo": "지금이야말로 역사적인 순간입니다.",
+    "exampleEn": "This is the historical moment.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 131,
+    "pattern": "-에 관해(서)",
+    "meaning": "about~",
+    "exampleKo": "인기 가수에 관해서 새로운 뉴스가 나왔어요.",
+    "exampleEn": "The latest news about a famous singer got released.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 132,
+    "pattern": "-에 대해(서)",
+    "meaning": "to~",
+    "exampleKo": "부부는 서로에 대해서 배려해야 한다.",
+    "exampleEn": "Married couples have to show respect to each other.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 133,
+    "pattern": "-에 따라(서)",
+    "meaning": "depending on~",
+    "exampleKo": "예산에 따라 여행일정도 달라져요.",
+    "exampleEn": "The travel plan changes depending on the budget.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 134,
+    "pattern": "-에 의해(서)",
+    "meaning": "by~",
+    "exampleKo": "역경은 희망에 의해서 극복할 수 있다.",
+    "exampleEn": "Hardship can be overcome by hope.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 135,
+    "pattern": "-에다(가)",
+    "meaning": "in(to)~ / at~",
+    "exampleKo": "우유는 냉장고에다가 넣었어요.",
+    "exampleEn": "I put milk into the refrigerator.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 136,
+    "pattern": "-을/를 비롯한",
+    "meaning": "including~",
+    "exampleKo": "나를 비롯한 모든 사람들이 그 아이디어에 찬성한다.",
+    "exampleEn": "Everybody including me agreed on the idea.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 137,
+    "pattern": "-을/를 통해(서)",
+    "meaning": "from~",
+    "exampleKo": "그 배우는 드라마를 통해서 알게 되었어요.",
+    "exampleEn": "I got to know that actor from a TV series.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 138,
+    "pattern": "-자",
+    "meaning": "let's",
+    "exampleKo": "이제 문 닫자.",
+    "exampleEn": "Let's close the door.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 139,
+    "pattern": "-자고 하다",
+    "meaning": "(He/she) said to~",
+    "exampleKo": "동료가 포기하지 말자고 했다.",
+    "exampleEn": "My colleague said not to give up.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 140,
+    "pattern": "-자마자",
+    "meaning": "as soon as~",
+    "exampleKo": "사장님은 좋은 소식을 듣자마자 미소 지었다.",
+    "exampleEn": "The boss smiled as soon as he heard the good news.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 141,
+    "pattern": "-잖아(요)",
+    "meaning": "~right?",
+    "exampleKo": "내가 많이 사줬잖아.",
+    "exampleEn": "I treated you many times, right?",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 142,
+    "pattern": "마저",
+    "meaning": "even~",
+    "exampleKo": "숙제가 많은 데다가 시간마저 부족하다.",
+    "exampleEn": "I have a lot of homework, but even the time is running out.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 143,
+    "pattern": "만큼",
+    "meaning": "as~",
+    "exampleKo": "가족만큼 중요한 것은 없다.",
+    "exampleEn": "There is nothing as important as family.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 144,
+    "pattern": "아무 -(이)나",
+    "meaning": "any~",
+    "exampleKo": "아무 옷이나 가져오세요.",
+    "exampleEn": "Bring any kind of clothes.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 145,
+    "pattern": "아무 -도",
+    "meaning": "no~",
+    "exampleKo": "아무 걱정도 없어요.",
+    "exampleEn": "I have no worries at all.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 146,
+    "pattern": "얼마나 -(으)ㄴ/는지",
+    "meaning": "how~",
+    "exampleKo": "그 당시에는 얼마나 가난했는지 몰라요.",
+    "exampleEn": "You can't imagine how poor we were at the time.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 147,
+    "pattern": "조차",
+    "meaning": "even~",
+    "exampleKo": "기다림조차 설렙니다.",
+    "exampleEn": "Even the waiting time is exciting for me.",
+    "level": "TOPIK II Intermediate"
+  },
+  {
+    "id": 148,
+    "pattern": "치고(는)",
+    "meaning": "for~",
+    "exampleKo": "아이돌치고는 나이가 많다.",
+    "exampleEn": "He is old for an idol.",
+    "level": "TOPIK II Intermediate"
+  }
+]

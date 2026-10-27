@@ -1,0 +1,5042 @@
+[
+  {
+    "id": 1,
+    "hangul": "봄",
+    "meaning": "spring",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 2,
+    "hangul": "여름",
+    "meaning": "summer",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 3,
+    "hangul": "가을",
+    "meaning": "autumn",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 4,
+    "hangul": "겨울",
+    "meaning": "winter",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 5,
+    "hangul": "바다",
+    "meaning": "sea, ocean",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 6,
+    "hangul": "강",
+    "meaning": "river",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 7,
+    "hangul": "호수",
+    "meaning": "lake",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 8,
+    "hangul": "산",
+    "meaning": "mountain",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 9,
+    "hangul": "숲",
+    "meaning": "forest",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 10,
+    "hangul": "논",
+    "meaning": "rice paddy",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 11,
+    "hangul": "밭",
+    "meaning": "dry field, farm",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 12,
+    "hangul": "돌",
+    "meaning": "stone, rock",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 13,
+    "hangul": "꽃",
+    "meaning": "flower",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 14,
+    "hangul": "풀",
+    "meaning": "grass",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 15,
+    "hangul": "나무",
+    "meaning": "tree",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 16,
+    "hangul": "뿌리",
+    "meaning": "root",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 17,
+    "hangul": "나뭇가지",
+    "meaning": "branch",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 18,
+    "hangul": "나뭇잎",
+    "meaning": "leaf",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 19,
+    "hangul": "줄기",
+    "meaning": "stem",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 20,
+    "hangul": "나이테",
+    "meaning": "growth ring",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 21,
+    "hangul": "낙엽",
+    "meaning": "fallen leaves",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 22,
+    "hangul": "아침",
+    "meaning": "morning",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 23,
+    "hangul": "낮",
+    "meaning": "day, daytime",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 24,
+    "hangul": "저녁",
+    "meaning": "evening",
+    "day": "DAY 1",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 25,
+    "hangul": "밤",
+    "meaning": "night",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 26,
+    "hangul": "새벽",
+    "meaning": "dawn",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 27,
+    "hangul": "일출",
+    "meaning": "sunrise",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 28,
+    "hangul": "일몰",
+    "meaning": "sunset",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 29,
+    "hangul": "태양/해",
+    "meaning": "sun",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 30,
+    "hangul": "구름",
+    "meaning": "cloud",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 31,
+    "hangul": "바람",
+    "meaning": "wind",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 32,
+    "hangul": "태풍",
+    "meaning": "typhoon",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 33,
+    "hangul": "눈",
+    "meaning": "snow",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 34,
+    "hangul": "비",
+    "meaning": "rain",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 35,
+    "hangul": "천둥",
+    "meaning": "thunder",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 36,
+    "hangul": "번개",
+    "meaning": "lightning",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 37,
+    "hangul": "우박",
+    "meaning": "hail",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 38,
+    "hangul": "장마",
+    "meaning": "rainy season",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 39,
+    "hangul": "서리",
+    "meaning": "frost",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 40,
+    "hangul": "안개",
+    "meaning": "fog",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 41,
+    "hangul": "하늘",
+    "meaning": "sky",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 42,
+    "hangul": "땅",
+    "meaning": "ground, land",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 43,
+    "hangul": "지구",
+    "meaning": "Earth",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 44,
+    "hangul": "행성",
+    "meaning": "planet",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 45,
+    "hangul": "별",
+    "meaning": "star",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 46,
+    "hangul": "산사태",
+    "meaning": "landslide",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 47,
+    "hangul": "지진",
+    "meaning": "earthquake",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 48,
+    "hangul": "홍수",
+    "meaning": "flood",
+    "day": "DAY 2",
+    "category": "자연환경/현상 Nature"
+  },
+  {
+    "id": 49,
+    "hangul": "양배추",
+    "meaning": "cabbage",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 50,
+    "hangul": "애호박",
+    "meaning": "green pumpkin, Kobocha squash",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 51,
+    "hangul": "오이",
+    "meaning": "cucumber",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 52,
+    "hangul": "양파",
+    "meaning": "onion",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 53,
+    "hangul": "파",
+    "meaning": "green onion",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 54,
+    "hangul": "당근",
+    "meaning": "carrot",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 55,
+    "hangul": "가지",
+    "meaning": "eggplant",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 56,
+    "hangul": "호박",
+    "meaning": "pumpkin",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 57,
+    "hangul": "감자",
+    "meaning": "potato",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 58,
+    "hangul": "고구마",
+    "meaning": "sweet potato",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 59,
+    "hangul": "밤",
+    "meaning": "chestnut",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 60,
+    "hangul": "호두",
+    "meaning": "walnut",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 61,
+    "hangul": "땅콩",
+    "meaning": "peanut",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 62,
+    "hangul": "아몬드",
+    "meaning": "almond",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 63,
+    "hangul": "팥",
+    "meaning": "red bean",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 64,
+    "hangul": "강낭콩",
+    "meaning": "kidney bean",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 65,
+    "hangul": "완두콩",
+    "meaning": "pea",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 66,
+    "hangul": "파프리카",
+    "meaning": "paprika, bell pepper",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 67,
+    "hangul": "브로콜리",
+    "meaning": "broccoli",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 68,
+    "hangul": "버섯",
+    "meaning": "mushroom",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 69,
+    "hangul": "고추",
+    "meaning": "chili pepper",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 70,
+    "hangul": "깻잎",
+    "meaning": "perilla leaf",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 71,
+    "hangul": "상추",
+    "meaning": "lettuce",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 72,
+    "hangul": "마늘",
+    "meaning": "garlic",
+    "day": "DAY 3",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 73,
+    "hangul": "토마토",
+    "meaning": "tomato",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 74,
+    "hangul": "아보카도",
+    "meaning": "avocado",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 75,
+    "hangul": "오렌지",
+    "meaning": "orange",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 76,
+    "hangul": "귤",
+    "meaning": "tangerine",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 77,
+    "hangul": "감",
+    "meaning": "persimmon",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 78,
+    "hangul": "딸기",
+    "meaning": "strawberry",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 79,
+    "hangul": "바나나",
+    "meaning": "banana",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 80,
+    "hangul": "포도",
+    "meaning": "grape",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 81,
+    "hangul": "레몬",
+    "meaning": "lemon",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 82,
+    "hangul": "자두",
+    "meaning": "plum",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 83,
+    "hangul": "체리",
+    "meaning": "cherry",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 84,
+    "hangul": "키위",
+    "meaning": "kiwi",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 85,
+    "hangul": "복숭아",
+    "meaning": "peach",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 86,
+    "hangul": "배",
+    "meaning": "pear",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 87,
+    "hangul": "사과",
+    "meaning": "apple",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 88,
+    "hangul": "수박",
+    "meaning": "watermelon",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 89,
+    "hangul": "참외",
+    "meaning": "oriental melon",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 90,
+    "hangul": "파인애플",
+    "meaning": "pineapple",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 91,
+    "hangul": "보리",
+    "meaning": "barley",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 92,
+    "hangul": "밀",
+    "meaning": "wheat",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 93,
+    "hangul": "수수",
+    "meaning": "sorghum",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 94,
+    "hangul": "쌀",
+    "meaning": "rice",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 95,
+    "hangul": "조",
+    "meaning": "millet",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 96,
+    "hangul": "옥수수",
+    "meaning": "corn, maize",
+    "day": "DAY 4",
+    "category": "농작물 Agricultural produce"
+  },
+  {
+    "id": 97,
+    "hangul": "부엉이",
+    "meaning": "owl",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 98,
+    "hangul": "박쥐",
+    "meaning": "bat",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 99,
+    "hangul": "독수리",
+    "meaning": "eagle",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 100,
+    "hangul": "갈매기",
+    "meaning": "seagull",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 101,
+    "hangul": "비둘기",
+    "meaning": "pigeon",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 102,
+    "hangul": "코끼리",
+    "meaning": "elephant",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 103,
+    "hangul": "코뿔소",
+    "meaning": "rhinoceros",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 104,
+    "hangul": "하마",
+    "meaning": "hippopotamus",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 105,
+    "hangul": "사자",
+    "meaning": "lion",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 106,
+    "hangul": "호랑이",
+    "meaning": "tiger",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 107,
+    "hangul": "표범",
+    "meaning": "leopard",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 108,
+    "hangul": "늑대",
+    "meaning": "wolf",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 109,
+    "hangul": "여우",
+    "meaning": "fox",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 110,
+    "hangul": "염소",
+    "meaning": "goat",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 111,
+    "hangul": "소",
+    "meaning": "cow",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 112,
+    "hangul": "돼지",
+    "meaning": "pig",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 113,
+    "hangul": "낙타",
+    "meaning": "camel",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 114,
+    "hangul": "말",
+    "meaning": "horse",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 115,
+    "hangul": "얼룩말",
+    "meaning": "zebra",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 116,
+    "hangul": "기린",
+    "meaning": "giraffe",
+    "day": "DAY 5",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 117,
+    "hangul": "사슴",
+    "meaning": "deer",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 118,
+    "hangul": "타조",
+    "meaning": "ostrich",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 119,
+    "hangul": "캥거루",
+    "meaning": "kangaroo",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 120,
+    "hangul": "곰",
+    "meaning": "bear",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 121,
+    "hangul": "판다",
+    "meaning": "panda",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 122,
+    "hangul": "코알라",
+    "meaning": "koala",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 123,
+    "hangul": "고릴라",
+    "meaning": "gorilla",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 124,
+    "hangul": "원숭이",
+    "meaning": "monkey",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 125,
+    "hangul": "너구리",
+    "meaning": "racoon",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 126,
+    "hangul": "다람쥐",
+    "meaning": "squirrel",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 127,
+    "hangul": "고슴도치",
+    "meaning": "hedgehog",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 128,
+    "hangul": "토끼",
+    "meaning": "rabbit",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 129,
+    "hangul": "개",
+    "meaning": "dog",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 130,
+    "hangul": "고양이",
+    "meaning": "cat",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 131,
+    "hangul": "쥐",
+    "meaning": "mouse",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 132,
+    "hangul": "닭",
+    "meaning": "chicken",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 133,
+    "hangul": "병아리",
+    "meaning": "chick",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 134,
+    "hangul": "오리",
+    "meaning": "duck",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 135,
+    "hangul": "펭귄",
+    "meaning": "penguin",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 136,
+    "hangul": "고래",
+    "meaning": "whale",
+    "day": "DAY 6",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 137,
+    "hangul": "상어",
+    "meaning": "shark",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 138,
+    "hangul": "물개",
+    "meaning": "seal",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 139,
+    "hangul": "거북이",
+    "meaning": "turtle",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 140,
+    "hangul": "게",
+    "meaning": "crab",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 141,
+    "hangul": "뱀",
+    "meaning": "snake",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 142,
+    "hangul": "악어",
+    "meaning": "crocodile",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 143,
+    "hangul": "도마뱀",
+    "meaning": "lizard",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 144,
+    "hangul": "개구리",
+    "meaning": "frog",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 145,
+    "hangul": "달팽이",
+    "meaning": "snail",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 146,
+    "hangul": "사마귀",
+    "meaning": "mantis",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 147,
+    "hangul": "거미",
+    "meaning": "spider",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 148,
+    "hangul": "나비",
+    "meaning": "butterfly",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 149,
+    "hangul": "벌",
+    "meaning": "bee",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 150,
+    "hangul": "잠자리",
+    "meaning": "dragonfly",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 151,
+    "hangul": "매미",
+    "meaning": "cicada",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 152,
+    "hangul": "모기",
+    "meaning": "mosquito",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 153,
+    "hangul": "파리",
+    "meaning": "fly",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 154,
+    "hangul": "개미",
+    "meaning": "ant",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 155,
+    "hangul": "바퀴벌레",
+    "meaning": "cockroach",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 156,
+    "hangul": "무당벌레",
+    "meaning": "ladybug, ladybird",
+    "day": "DAY 7",
+    "category": "동물 Animals"
+  },
+  {
+    "id": 157,
+    "hangul": "머리카락",
+    "meaning": "hair",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 158,
+    "hangul": "머리",
+    "meaning": "head",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 159,
+    "hangul": "이마",
+    "meaning": "forehead",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 160,
+    "hangul": "주름",
+    "meaning": "wrinkle",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 161,
+    "hangul": "얼굴",
+    "meaning": "face",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 162,
+    "hangul": "눈썹",
+    "meaning": "eyebrow",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 163,
+    "hangul": "속눈썹",
+    "meaning": "eyelash",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 164,
+    "hangul": "눈",
+    "meaning": "eye",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 165,
+    "hangul": "눈동자",
+    "meaning": "pupil",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 166,
+    "hangul": "귀",
+    "meaning": "ear",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 167,
+    "hangul": "코",
+    "meaning": "nose",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 168,
+    "hangul": "볼",
+    "meaning": "cheek",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 169,
+    "hangul": "인중",
+    "meaning": "philtrum",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 170,
+    "hangul": "입",
+    "meaning": "mouth",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 171,
+    "hangul": "턱",
+    "meaning": "chin",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 172,
+    "hangul": "목",
+    "meaning": "neck",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 173,
+    "hangul": "쇄골",
+    "meaning": "collarbone",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 174,
+    "hangul": "어깨",
+    "meaning": "shoulder",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 175,
+    "hangul": "가슴",
+    "meaning": "chest",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 176,
+    "hangul": "팔꿈치",
+    "meaning": "elbow",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 177,
+    "hangul": "배",
+    "meaning": "stomach",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 178,
+    "hangul": "등",
+    "meaning": "back",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 179,
+    "hangul": "허리",
+    "meaning": "waist",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 180,
+    "hangul": "손목",
+    "meaning": "wrist",
+    "day": "DAY 8",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 181,
+    "hangul": "손",
+    "meaning": "hand",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 182,
+    "hangul": "손등",
+    "meaning": "back of one's hand",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 183,
+    "hangul": "손가락",
+    "meaning": "finger",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 184,
+    "hangul": "엄지",
+    "meaning": "thumb",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 185,
+    "hangul": "검지",
+    "meaning": "index finger",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 186,
+    "hangul": "중지",
+    "meaning": "middle finger",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 187,
+    "hangul": "약지",
+    "meaning": "ring finger",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 188,
+    "hangul": "새끼손가락",
+    "meaning": "little finger, pinky",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 189,
+    "hangul": "손톱",
+    "meaning": "nail",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 190,
+    "hangul": "손바닥",
+    "meaning": "palm",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 191,
+    "hangul": "골반",
+    "meaning": "pelvis",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 192,
+    "hangul": "엉덩이",
+    "meaning": "bottom, rear end, buttocks",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 193,
+    "hangul": "다리",
+    "meaning": "leg",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 194,
+    "hangul": "허벅지",
+    "meaning": "thigh",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 195,
+    "hangul": "무릎",
+    "meaning": "knee",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 196,
+    "hangul": "종아리",
+    "meaning": "calf",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 197,
+    "hangul": "털",
+    "meaning": "hair",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 198,
+    "hangul": "발목",
+    "meaning": "ankle",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 199,
+    "hangul": "발",
+    "meaning": "foot",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 200,
+    "hangul": "발등",
+    "meaning": "top of the foot",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 201,
+    "hangul": "발꿈치",
+    "meaning": "heel",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 202,
+    "hangul": "발가락",
+    "meaning": "toe",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 203,
+    "hangul": "발톱",
+    "meaning": "toenail",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 204,
+    "hangul": "발바닥",
+    "meaning": "sole",
+    "day": "DAY 9",
+    "category": "신체 Body parts"
+  },
+  {
+    "id": 205,
+    "hangul": "할아버지",
+    "meaning": "grandfather",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 206,
+    "hangul": "할머니",
+    "meaning": "grandmother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 207,
+    "hangul": "큰아버지(큰아빠)",
+    "meaning": "(married) elder brother of one's",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 208,
+    "hangul": "큰어머니(큰엄마)",
+    "meaning": "wife of one's father's elder",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 209,
+    "hangul": "고모",
+    "meaning": "sister of one's father",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 210,
+    "hangul": "고모부",
+    "meaning": "husband of one's father's sister",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 211,
+    "hangul": "작은아버지",
+    "meaning": "(작은아빠)",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 212,
+    "hangul": "작은어머니",
+    "meaning": "(작은엄마)",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 213,
+    "hangul": "삼촌",
+    "meaning": "(unmarried)",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 214,
+    "hangul": "아버지(아빠)",
+    "meaning": "father (dad)",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 215,
+    "hangul": "외할아버지",
+    "meaning": "grandfather",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 216,
+    "hangul": "외할머니",
+    "meaning": "grandmother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 217,
+    "hangul": "외삼촌",
+    "meaning": "brother of one's mother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 218,
+    "hangul": "외숙모",
+    "meaning": "wife of one's mother's brother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 219,
+    "hangul": "이모",
+    "meaning": "sister of one's mother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 220,
+    "hangul": "이모부",
+    "meaning": "husband of one's mother's sister",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 221,
+    "hangul": "어머니(엄마)",
+    "meaning": "mother (mom)",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 222,
+    "hangul": "언니/누나",
+    "meaning": "older sister",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 223,
+    "hangul": "오빠/형",
+    "meaning": "older brother",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 224,
+    "hangul": "여동생",
+    "meaning": "younger sister",
+    "day": "DAY 10",
+    "category": "가족 Family"
+  },
+  {
+    "id": 225,
+    "hangul": "남동생",
+    "meaning": "younger brother",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 226,
+    "hangul": "올케",
+    "meaning": "brother's wife (for women)",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 227,
+    "hangul": "매제",
+    "meaning": "younger sister's husband (for",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 228,
+    "hangul": "형부",
+    "meaning": "elder sister's husband (for",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 229,
+    "hangul": "매형",
+    "meaning": "elder sister's husband (for men)",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 230,
+    "hangul": "사촌",
+    "meaning": "cousin",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 231,
+    "hangul": "조카",
+    "meaning": "nephew, niece",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 232,
+    "hangul": "시아버지",
+    "meaning": "husband's father",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 233,
+    "hangul": "시어머니",
+    "meaning": "husband's mother",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 234,
+    "hangul": "남편",
+    "meaning": "husband",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 235,
+    "hangul": "시누이",
+    "meaning": "husband's sister",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 236,
+    "hangul": "동서",
+    "meaning": "wife of one's husband's younger",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 237,
+    "hangul": "며느리",
+    "meaning": "daughter-in-law",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 238,
+    "hangul": "장모님",
+    "meaning": "wife's mother",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 239,
+    "hangul": "장인어른",
+    "meaning": "wife's father",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 240,
+    "hangul": "아내",
+    "meaning": "wife",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 241,
+    "hangul": "처남",
+    "meaning": "wife's younger brother",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 242,
+    "hangul": "처제",
+    "meaning": "wife's younger sister",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 243,
+    "hangul": "사위",
+    "meaning": "son-in-law",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 244,
+    "hangul": "손자",
+    "meaning": "grandchild",
+    "day": "DAY 11",
+    "category": "가족 Family"
+  },
+  {
+    "id": 245,
+    "hangul": "농부",
+    "meaning": "farmer",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 246,
+    "hangul": "어부",
+    "meaning": "fisherman",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 247,
+    "hangul": "의사",
+    "meaning": "doctor",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 248,
+    "hangul": "수의사",
+    "meaning": "veterinarian",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 249,
+    "hangul": "치과 의사",
+    "meaning": "dentist",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 250,
+    "hangul": "간호사",
+    "meaning": "nurse",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 251,
+    "hangul": "변호사",
+    "meaning": "lawyer",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 252,
+    "hangul": "검사",
+    "meaning": "prosecutor",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 253,
+    "hangul": "판사",
+    "meaning": "judge",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 254,
+    "hangul": "경찰관",
+    "meaning": "police officer",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 255,
+    "hangul": "소방관",
+    "meaning": "firefighter",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 256,
+    "hangul": "경호원",
+    "meaning": "bodyguard",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 257,
+    "hangul": "경비원",
+    "meaning": "security guard",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 258,
+    "hangul": "회사원",
+    "meaning": "company employee",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 259,
+    "hangul": "사업가",
+    "meaning": "businessman",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 260,
+    "hangul": "운전기사",
+    "meaning": "driver",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 261,
+    "hangul": "선생님",
+    "meaning": "teacher",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 262,
+    "hangul": "보모",
+    "meaning": "nanny",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 263,
+    "hangul": "학생",
+    "meaning": "student",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 264,
+    "hangul": "우체부",
+    "meaning": "(우편집배원)",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 265,
+    "hangul": "환경미화원",
+    "meaning": "sweeper, street cleaner",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 266,
+    "hangul": "과학자",
+    "meaning": "scientist",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 267,
+    "hangul": "디자이너",
+    "meaning": "designer",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 268,
+    "hangul": "미용사",
+    "meaning": "hairdresser",
+    "day": "DAY 12",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 269,
+    "hangul": "마술사",
+    "meaning": "magician",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 270,
+    "hangul": "화가",
+    "meaning": "painter",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 271,
+    "hangul": "성악가",
+    "meaning": "vocalist",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 272,
+    "hangul": "작곡가",
+    "meaning": "composer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 273,
+    "hangul": "가수",
+    "meaning": "singer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 274,
+    "hangul": "모델",
+    "meaning": "model",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 275,
+    "hangul": "배우/연기자",
+    "meaning": "actor",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 276,
+    "hangul": "코미디언",
+    "meaning": "comedian",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 277,
+    "hangul": "영화감독",
+    "meaning": "movie director",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 278,
+    "hangul": "사진작가",
+    "meaning": "photographer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 279,
+    "hangul": "작가",
+    "meaning": "writer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 280,
+    "hangul": "기자",
+    "meaning": "reporter",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 281,
+    "hangul": "요리사",
+    "meaning": "cook",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 282,
+    "hangul": "제빵사",
+    "meaning": "baker",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 283,
+    "hangul": "통역사",
+    "meaning": "interpreter",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 284,
+    "hangul": "승무원",
+    "meaning": "flight attendant",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 285,
+    "hangul": "아나운서",
+    "meaning": "announcer, anchor",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 286,
+    "hangul": "프로듀서(PD)",
+    "meaning": "producer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 287,
+    "hangul": "군인",
+    "meaning": "soldier",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 288,
+    "hangul": "운동선수",
+    "meaning": "athlete",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 289,
+    "hangul": "컴퓨터",
+    "meaning": "프로그래머",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 290,
+    "hangul": "엔지니어",
+    "meaning": "engineer",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 291,
+    "hangul": "목수",
+    "meaning": "carpenter",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 292,
+    "hangul": "배관공",
+    "meaning": "plumber",
+    "day": "DAY 13",
+    "category": "직업 Jobs"
+  },
+  {
+    "id": 293,
+    "hangul": "밀가루",
+    "meaning": "flour",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 294,
+    "hangul": "박력분",
+    "meaning": "cake or pastry flour",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 295,
+    "hangul": "중력분",
+    "meaning": "all-purpose flour",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 296,
+    "hangul": "강력분",
+    "meaning": "bread flour",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 297,
+    "hangul": "달걀/계란",
+    "meaning": "egg",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 298,
+    "hangul": "노른자",
+    "meaning": "egg yolk",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 299,
+    "hangul": "흰자",
+    "meaning": "egg white/albumen",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 300,
+    "hangul": "우유",
+    "meaning": "milk",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 301,
+    "hangul": "버터",
+    "meaning": "butter",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 302,
+    "hangul": "치즈",
+    "meaning": "cheese",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 303,
+    "hangul": "생크림",
+    "meaning": "fresh cream",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 304,
+    "hangul": "간장",
+    "meaning": "soy sauce",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 305,
+    "hangul": "된장",
+    "meaning": "soy bean paste",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 306,
+    "hangul": "고추장",
+    "meaning": "red pepper paste",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 307,
+    "hangul": "고춧가루",
+    "meaning": "red pepper powder",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 308,
+    "hangul": "설탕",
+    "meaning": "sugar",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 309,
+    "hangul": "소금",
+    "meaning": "salt",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 310,
+    "hangul": "후추",
+    "meaning": "black pepper",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 311,
+    "hangul": "올리브오일/",
+    "meaning": "올리브유",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 312,
+    "hangul": "식용유",
+    "meaning": "cooking oil",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 313,
+    "hangul": "참기름",
+    "meaning": "sesame oil",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 314,
+    "hangul": "면",
+    "meaning": "noodle",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 315,
+    "hangul": "소고기",
+    "meaning": "beef",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 316,
+    "hangul": "돼지고기",
+    "meaning": "pork",
+    "day": "DAY 14",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 317,
+    "hangul": "닭고기",
+    "meaning": "chicken",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 318,
+    "hangul": "베이컨",
+    "meaning": "bacon",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 319,
+    "hangul": "생선",
+    "meaning": "fish",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 320,
+    "hangul": "물",
+    "meaning": "water",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 321,
+    "hangul": "밥",
+    "meaning": "steamed rice",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 322,
+    "hangul": "믹서기",
+    "meaning": "blender",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 323,
+    "hangul": "주방 저울",
+    "meaning": "kitchen scale",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 324,
+    "hangul": "계량스푼",
+    "meaning": "measuring spoon",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 325,
+    "hangul": "계량컵",
+    "meaning": "measuring cup",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 326,
+    "hangul": "그릇",
+    "meaning": "bowl, container",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 327,
+    "hangul": "접시",
+    "meaning": "dish, plate",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 328,
+    "hangul": "가위",
+    "meaning": "scissors",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 329,
+    "hangul": "국자",
+    "meaning": "ladle",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 330,
+    "hangul": "뒤집개",
+    "meaning": "turner",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 331,
+    "hangul": "집게",
+    "meaning": "tongs",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 332,
+    "hangul": "주걱",
+    "meaning": "rice paddle",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 333,
+    "hangul": "도마",
+    "meaning": "cutting board",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 334,
+    "hangul": "식칼/부엌칼",
+    "meaning": "kitchen knife",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 335,
+    "hangul": "주전자",
+    "meaning": "kettle",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 336,
+    "hangul": "냄비",
+    "meaning": "pot",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 337,
+    "hangul": "프라이팬",
+    "meaning": "frying pan",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 338,
+    "hangul": "압력 밥솥",
+    "meaning": "high pressure rice cooker",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 339,
+    "hangul": "숟가락",
+    "meaning": "spoon",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 340,
+    "hangul": "젓가락",
+    "meaning": "chopsticks",
+    "day": "DAY 15",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 341,
+    "hangul": "TV/텔레비전",
+    "meaning": "TV",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 342,
+    "hangul": "오디오",
+    "meaning": "stereo system",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 343,
+    "hangul": "청소기",
+    "meaning": "vacuum cleaner",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 344,
+    "hangul": "전화기",
+    "meaning": "telephone",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 345,
+    "hangul": "다리미",
+    "meaning": "iron",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 346,
+    "hangul": "에어컨",
+    "meaning": "air conditioner",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 347,
+    "hangul": "선풍기",
+    "meaning": "electric fan",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 348,
+    "hangul": "가스레인지",
+    "meaning": "gas stove",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 349,
+    "hangul": "전기레인지/",
+    "meaning": "인덕션",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 350,
+    "hangul": "냉장고",
+    "meaning": "refrigerator",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 351,
+    "hangul": "전자레인지",
+    "meaning": "microwave",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 352,
+    "hangul": "식기세척기",
+    "meaning": "dishwasher",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 353,
+    "hangul": "오븐",
+    "meaning": "oven",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 354,
+    "hangul": "전기밥솥",
+    "meaning": "electric rice cooker",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 355,
+    "hangul": "전기포트",
+    "meaning": "/커피포트",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 356,
+    "hangul": "커피 머신",
+    "meaning": "coffee machine",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 357,
+    "hangul": "토스터",
+    "meaning": "toaster",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 358,
+    "hangul": "보일러",
+    "meaning": "boiler",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 359,
+    "hangul": "히터",
+    "meaning": "heater",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 360,
+    "hangul": "세탁기",
+    "meaning": "washing machine",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 361,
+    "hangul": "드라이기",
+    "meaning": "blow dryer",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 362,
+    "hangul": "면도기",
+    "meaning": "razor",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 363,
+    "hangul": "카메라",
+    "meaning": "camera",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 364,
+    "hangul": "컴퓨터",
+    "meaning": "computer",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 365,
+    "hangul": "노트북",
+    "meaning": "laptop",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 366,
+    "hangul": "프린터/프린트기",
+    "meaning": "printer",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 367,
+    "hangul": "스피커",
+    "meaning": "speaker",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 368,
+    "hangul": "핸드폰",
+    "meaning": "cell phone",
+    "day": "DAY 16",
+    "category": "요리 Cooking"
+  },
+  {
+    "id": 369,
+    "hangul": "소파",
+    "meaning": "sofa",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 370,
+    "hangul": "식탁",
+    "meaning": "dining table",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 371,
+    "hangul": "탁자",
+    "meaning": "table",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 372,
+    "hangul": "벽시계",
+    "meaning": "wall clock",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 373,
+    "hangul": "알람 시계",
+    "meaning": "alarm clock",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 374,
+    "hangul": "장롱",
+    "meaning": "wardrobe",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 375,
+    "hangul": "붙박이장",
+    "meaning": "built-in wardrobe",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 376,
+    "hangul": "수납장",
+    "meaning": "storage closet",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 377,
+    "hangul": "신발장",
+    "meaning": "shoe shelf",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 378,
+    "hangul": "서랍",
+    "meaning": "drawer",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 379,
+    "hangul": "책상",
+    "meaning": "desk",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 380,
+    "hangul": "책장",
+    "meaning": "bookshelf",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 381,
+    "hangul": "의자",
+    "meaning": "chair",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 382,
+    "hangul": "이층 침대",
+    "meaning": "bunk",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 383,
+    "hangul": "침대",
+    "meaning": "bed",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 384,
+    "hangul": "블라인드",
+    "meaning": "blind",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 385,
+    "hangul": "커튼",
+    "meaning": "curtain",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 386,
+    "hangul": "형광등",
+    "meaning": "fluorescent light",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 387,
+    "hangul": "거울",
+    "meaning": "mirror",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 388,
+    "hangul": "화장대",
+    "meaning": "dressing table",
+    "day": "DAY 17",
+    "category": "가구/인테리어 Furniture"
+  },
+  {
+    "id": 389,
+    "hangul": "건널목",
+    "meaning": "crossing",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 390,
+    "hangul": "로터리/교차로",
+    "meaning": "roundabout, intersection",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 391,
+    "hangul": "사거리",
+    "meaning": "crossroad",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 392,
+    "hangul": "오거리",
+    "meaning": "five-way intersection",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 393,
+    "hangul": "차도/찻길",
+    "meaning": "road",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 394,
+    "hangul": "고속도로",
+    "meaning": "highway",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 395,
+    "hangul": "교통 방송",
+    "meaning": "traffic broadcasting",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 396,
+    "hangul": "교통 정보",
+    "meaning": "traffic information",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 397,
+    "hangul": "대중교통",
+    "meaning": "public transportation",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 398,
+    "hangul": "버스",
+    "meaning": "bus",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 399,
+    "hangul": "기차",
+    "meaning": "train",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 400,
+    "hangul": "지하철",
+    "meaning": "subway",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 401,
+    "hangul": "택시",
+    "meaning": "taxi",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 402,
+    "hangul": "자동차",
+    "meaning": "car",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 403,
+    "hangul": "트럭",
+    "meaning": "truck, lorry",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 404,
+    "hangul": "승합차",
+    "meaning": "van",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 405,
+    "hangul": "오토바이",
+    "meaning": "motorcycle",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 406,
+    "hangul": "자전거",
+    "meaning": "bicycle",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 407,
+    "hangul": "배",
+    "meaning": "boat, ship",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 408,
+    "hangul": "요트",
+    "meaning": "yacht",
+    "day": "DAY 18",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 409,
+    "hangul": "잠수함",
+    "meaning": "submarine",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 410,
+    "hangul": "비행기",
+    "meaning": "airplane",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 411,
+    "hangul": "헬리콥터",
+    "meaning": "helicopter",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 412,
+    "hangul": "우주선",
+    "meaning": "spaceship",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 413,
+    "hangul": "유모차",
+    "meaning": "stroller",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 414,
+    "hangul": "마차",
+    "meaning": "carriage",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 415,
+    "hangul": "인도/보도",
+    "meaning": "sidewalk, pavement",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 416,
+    "hangul": "횡단보도",
+    "meaning": "crosswalk, zebra crossing",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 417,
+    "hangul": "신호등",
+    "meaning": "traffic lights",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 418,
+    "hangul": "신호 위반",
+    "meaning": "traffic signal violation",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 419,
+    "hangul": "과속",
+    "meaning": "speeding",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 420,
+    "hangul": "음주운전",
+    "meaning": "drunk driving",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 421,
+    "hangul": "졸음운전",
+    "meaning": "driving while drowsy",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 422,
+    "hangul": "무단 횡단",
+    "meaning": "jaywalking",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 423,
+    "hangul": "교통사고",
+    "meaning": "traffic accident",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 424,
+    "hangul": "견인차",
+    "meaning": "tow truck",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 425,
+    "hangul": "경찰차",
+    "meaning": "police car",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 426,
+    "hangul": "교통경찰",
+    "meaning": "/교통순경",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 427,
+    "hangul": "구급차",
+    "meaning": "ambulance",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 428,
+    "hangul": "소방차",
+    "meaning": "fire engine",
+    "day": "DAY 19",
+    "category": "교통 Transportation"
+  },
+  {
+    "id": 429,
+    "hangul": "공장",
+    "meaning": "factory",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 430,
+    "hangul": "회사",
+    "meaning": "company",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 431,
+    "hangul": "대사관",
+    "meaning": "embassy",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 432,
+    "hangul": "도서관",
+    "meaning": "library",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 433,
+    "hangul": "미술관",
+    "meaning": "art gallery",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 434,
+    "hangul": "박물관",
+    "meaning": "museum",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 435,
+    "hangul": "방송국",
+    "meaning": "broadcasting station",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 436,
+    "hangul": "법원",
+    "meaning": "court",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 437,
+    "hangul": "경찰서",
+    "meaning": "police station",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 438,
+    "hangul": "소방서",
+    "meaning": "fire station",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 439,
+    "hangul": "놀이공원",
+    "meaning": "amusement park",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 440,
+    "hangul": "동물원",
+    "meaning": "zoo",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 441,
+    "hangul": "수영장",
+    "meaning": "swimming pool",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 442,
+    "hangul": "화장실",
+    "meaning": "bathroom",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 443,
+    "hangul": "주유소",
+    "meaning": "gas station",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 444,
+    "hangul": "주차장",
+    "meaning": "parking lot",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 445,
+    "hangul": "헬스장",
+    "meaning": "gym",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 446,
+    "hangul": "학교",
+    "meaning": "school",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 447,
+    "hangul": "운동장",
+    "meaning": "playground, stadium",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 448,
+    "hangul": "놀이터",
+    "meaning": "playground",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 449,
+    "hangul": "공원",
+    "meaning": "park",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 450,
+    "hangul": "꽃집",
+    "meaning": "flower shop",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 451,
+    "hangul": "노래방",
+    "meaning": "karaoke room",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 452,
+    "hangul": "클럽",
+    "meaning": "club",
+    "day": "DAY 20",
+    "category": "장소 Places"
+  },
+  {
+    "id": 453,
+    "hangul": "백화점",
+    "meaning": "department store",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 454,
+    "hangul": "영화관",
+    "meaning": "movie theater",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 455,
+    "hangul": "극장",
+    "meaning": "theater",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 456,
+    "hangul": "병원",
+    "meaning": "hospital",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 457,
+    "hangul": "우체국",
+    "meaning": "post office",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 458,
+    "hangul": "은행",
+    "meaning": "bank",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 459,
+    "hangul": "빵집",
+    "meaning": "bakery",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 460,
+    "hangul": "서점",
+    "meaning": "bookstore",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 461,
+    "hangul": "미용실",
+    "meaning": "beauty salon",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 462,
+    "hangul": "옷 가게",
+    "meaning": "clothing store",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 463,
+    "hangul": "식당",
+    "meaning": "restaurant",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 464,
+    "hangul": "카페/커피숍",
+    "meaning": "cafe",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 465,
+    "hangul": "약국",
+    "meaning": "pharmacy",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 466,
+    "hangul": "편의점",
+    "meaning": "convenience store",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 467,
+    "hangul": "교회",
+    "meaning": "church",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 468,
+    "hangul": "성당",
+    "meaning": "Catholic church",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 469,
+    "hangul": "절",
+    "meaning": "Buddhist temple",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 470,
+    "hangul": "시장",
+    "meaning": "market",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 471,
+    "hangul": "공항",
+    "meaning": "airport",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 472,
+    "hangul": "항구",
+    "meaning": "port",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 473,
+    "hangul": "기차역",
+    "meaning": "train station",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 474,
+    "hangul": "지하철역",
+    "meaning": "subway station",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 475,
+    "hangul": "버스 정류장",
+    "meaning": "bus stop",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 476,
+    "hangul": "선착장",
+    "meaning": "dock",
+    "day": "DAY 21",
+    "category": "장소 Places"
+  },
+  {
+    "id": 477,
+    "hangul": "가야금",
+    "meaning": "gayageum",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 478,
+    "hangul": "거문고",
+    "meaning": "geomungo",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 479,
+    "hangul": "꽹과리",
+    "meaning": "kwaeungwari",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 480,
+    "hangul": "단소",
+    "meaning": "danso",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 481,
+    "hangul": "대금",
+    "meaning": "daegeum",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 482,
+    "hangul": "북",
+    "meaning": "buk",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 483,
+    "hangul": "아쟁",
+    "meaning": "ajaeng",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 484,
+    "hangul": "장구",
+    "meaning": "janggu",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 485,
+    "hangul": "징",
+    "meaning": "jing",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 486,
+    "hangul": "해금",
+    "meaning": "haegeum",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 487,
+    "hangul": "피리",
+    "meaning": "Korean double reed pipe",
+    "day": "DAY 21",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 488,
+    "hangul": "기타",
+    "meaning": "guitar",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 489,
+    "hangul": "드럼",
+    "meaning": "drum",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 490,
+    "hangul": "리코더",
+    "meaning": "recorder",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 491,
+    "hangul": "멜로디언",
+    "meaning": "melodion",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 492,
+    "hangul": "바이올린",
+    "meaning": "violin",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 493,
+    "hangul": "비올라",
+    "meaning": "viola",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 494,
+    "hangul": "색소폰",
+    "meaning": "saxophone",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 495,
+    "hangul": "실로폰",
+    "meaning": "xylophone",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 496,
+    "hangul": "아코디언",
+    "meaning": "accordion",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 497,
+    "hangul": "우쿨렐레",
+    "meaning": "ukulele",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 498,
+    "hangul": "첼로",
+    "meaning": "cello",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 499,
+    "hangul": "콘트라베이스",
+    "meaning": "contrabass",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 500,
+    "hangul": "클라리넷",
+    "meaning": "clarinet",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 501,
+    "hangul": "트럼펫",
+    "meaning": "trumpet",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 502,
+    "hangul": "플루트",
+    "meaning": "flute",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 503,
+    "hangul": "피아노",
+    "meaning": "piano",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 504,
+    "hangul": "하프",
+    "meaning": "harp",
+    "day": "DAY 22",
+    "category": "악기 Musical instruments"
+  },
+  {
+    "id": 505,
+    "hangul": "책가방",
+    "meaning": "backpack",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 506,
+    "hangul": "교과서",
+    "meaning": "textbook",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 507,
+    "hangul": "책",
+    "meaning": "book",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 508,
+    "hangul": "공책",
+    "meaning": "notebook",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 509,
+    "hangul": "연습장",
+    "meaning": "workbook, exercise book",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 510,
+    "hangul": "파일/서류철",
+    "meaning": "file",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 511,
+    "hangul": "유인물/인쇄물",
+    "meaning": "printout, handout",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 512,
+    "hangul": "필통",
+    "meaning": "pencil case",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 513,
+    "hangul": "펜",
+    "meaning": "pen",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 514,
+    "hangul": "볼펜",
+    "meaning": "ballpoint pen",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 515,
+    "hangul": "샤프",
+    "meaning": "mechanical pencil",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 516,
+    "hangul": "샤프심",
+    "meaning": "lead for mechanical pencils",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 517,
+    "hangul": "수정 테이프",
+    "meaning": "correction tape",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 518,
+    "hangul": "연필",
+    "meaning": "pencil",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 519,
+    "hangul": "지우개",
+    "meaning": "eraser",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 520,
+    "hangul": "형광펜",
+    "meaning": "highlighter",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 521,
+    "hangul": "자",
+    "meaning": "ruler",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 522,
+    "hangul": "컴퍼스",
+    "meaning": "compass",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 523,
+    "hangul": "각도기",
+    "meaning": "protractor",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 524,
+    "hangul": "스카치테이프",
+    "meaning": "adhesive tape",
+    "day": "DAY 23",
+    "category": "학용품 School supplies"
+  },
+  {
+    "id": 525,
+    "hangul": "세모/삼각형",
+    "meaning": "triangle",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 526,
+    "hangul": "네모/사각형",
+    "meaning": "quadrilateral",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 527,
+    "hangul": "정사각형",
+    "meaning": "square",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 528,
+    "hangul": "직사각형",
+    "meaning": "rectangle",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 529,
+    "hangul": "마름모",
+    "meaning": "diamond",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 530,
+    "hangul": "사다리꼴",
+    "meaning": "trapezoid",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 531,
+    "hangul": "평행 사변형",
+    "meaning": "parallelogram",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 532,
+    "hangul": "오각형",
+    "meaning": "pentagon",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 533,
+    "hangul": "육각형",
+    "meaning": "hexagon",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 534,
+    "hangul": "동그라미/원",
+    "meaning": "circle",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 535,
+    "hangul": "타원형",
+    "meaning": "oval",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 536,
+    "hangul": "십자가",
+    "meaning": "cross",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 537,
+    "hangul": "별",
+    "meaning": "star",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 538,
+    "hangul": "하트",
+    "meaning": "heart",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 539,
+    "hangul": "화살표",
+    "meaning": "arrow",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 540,
+    "hangul": "정육면체",
+    "meaning": "cube",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 541,
+    "hangul": "직육면체",
+    "meaning": "cuboid",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 542,
+    "hangul": "구",
+    "meaning": "sphere",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 543,
+    "hangul": "원기둥",
+    "meaning": "cylinder",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 544,
+    "hangul": "원뿔",
+    "meaning": "cone",
+    "day": "DAY 24",
+    "category": "도형 Shapes"
+  },
+  {
+    "id": 545,
+    "hangul": "일 (하나)",
+    "meaning": "one",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 546,
+    "hangul": "이 (둘)",
+    "meaning": "two",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 547,
+    "hangul": "삼 (셋)",
+    "meaning": "three",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 548,
+    "hangul": "사 (넷)",
+    "meaning": "four",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 549,
+    "hangul": "오 (다섯)",
+    "meaning": "five",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 550,
+    "hangul": "육 (여섯)",
+    "meaning": "six",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 551,
+    "hangul": "칠 (일곱)",
+    "meaning": "seven",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 552,
+    "hangul": "팔 (여덟)",
+    "meaning": "eight",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 553,
+    "hangul": "구 (아홉)",
+    "meaning": "nine",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 554,
+    "hangul": "십 (열)",
+    "meaning": "ten",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 555,
+    "hangul": "십일 (열하나)",
+    "meaning": "eleven",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 556,
+    "hangul": "십이 (열둘)",
+    "meaning": "twelve",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 557,
+    "hangul": "십삼 (열셋)",
+    "meaning": "thirteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 558,
+    "hangul": "십사 (열넷)",
+    "meaning": "fourteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 559,
+    "hangul": "십오 (열다섯)",
+    "meaning": "fifteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 560,
+    "hangul": "십육 (열여섯)",
+    "meaning": "sixteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 561,
+    "hangul": "십칠 (열일곱)",
+    "meaning": "seventeen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 562,
+    "hangul": "십팔 (열여덟)",
+    "meaning": "eighteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 563,
+    "hangul": "십구 (열아홉)",
+    "meaning": "nineteen",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 564,
+    "hangul": "이십 (스물)",
+    "meaning": "twenty",
+    "day": "DAY 25",
+    "category": "숫자 Numbers"
+  },
+  {
+    "id": 565,
+    "hangul": "흰색/하얀색",
+    "meaning": "white",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 566,
+    "hangul": "상아색/아이보리",
+    "meaning": "ivory",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 567,
+    "hangul": "분홍색",
+    "meaning": "pink",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 568,
+    "hangul": "빨간색",
+    "meaning": "red",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 569,
+    "hangul": "자주색",
+    "meaning": "wine, burgundy",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 570,
+    "hangul": "주황색",
+    "meaning": "orange",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 571,
+    "hangul": "노란색",
+    "meaning": "yellow",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 572,
+    "hangul": "황토색",
+    "meaning": "yellow-brown, ochre",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 573,
+    "hangul": "갈색",
+    "meaning": "brown",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 574,
+    "hangul": "연두색",
+    "meaning": "yellow green",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 575,
+    "hangul": "녹색/초록색",
+    "meaning": "green",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 576,
+    "hangul": "카키색",
+    "meaning": "olive",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 577,
+    "hangul": "하늘색",
+    "meaning": "sky blue",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 578,
+    "hangul": "파란색",
+    "meaning": "blue",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 579,
+    "hangul": "남색",
+    "meaning": "navy",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 580,
+    "hangul": "보라색",
+    "meaning": "purple",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 581,
+    "hangul": "회색",
+    "meaning": "gray",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 582,
+    "hangul": "은색",
+    "meaning": "silver",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 583,
+    "hangul": "금색",
+    "meaning": "gold",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 584,
+    "hangul": "검은색",
+    "meaning": "black",
+    "day": "DAY 26",
+    "category": "색깔 Colors"
+  },
+  {
+    "id": 585,
+    "hangul": "네덜란드",
+    "meaning": "Netherlands",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 586,
+    "hangul": "독일",
+    "meaning": "Germany",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 587,
+    "hangul": "스웨덴",
+    "meaning": "Sweden",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 588,
+    "hangul": "스페인",
+    "meaning": "Spain",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 589,
+    "hangul": "영국",
+    "meaning": "United Kingdom",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 590,
+    "hangul": "이탈리아",
+    "meaning": "Italy",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 591,
+    "hangul": "프랑스",
+    "meaning": "France",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 592,
+    "hangul": "폴란드",
+    "meaning": "Poland",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 593,
+    "hangul": "터키",
+    "meaning": "Turkey",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 594,
+    "hangul": "사우디아라비아",
+    "meaning": "Saudi Arabia",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 595,
+    "hangul": "러시아",
+    "meaning": "Russia",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 596,
+    "hangul": "인도",
+    "meaning": "India",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 597,
+    "hangul": "인도네시아",
+    "meaning": "Indonesia",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 598,
+    "hangul": "필리핀",
+    "meaning": "Philippines",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 599,
+    "hangul": "싱가포르",
+    "meaning": "Singapore",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 600,
+    "hangul": "말레이시아",
+    "meaning": "Malaysia",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 601,
+    "hangul": "태국",
+    "meaning": "Thailand",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 602,
+    "hangul": "베트남",
+    "meaning": "Vietnam",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 603,
+    "hangul": "대만",
+    "meaning": "Taiwan",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 604,
+    "hangul": "홍콩",
+    "meaning": "Hong Kong",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 605,
+    "hangul": "중국",
+    "meaning": "China",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 606,
+    "hangul": "한국",
+    "meaning": "Korea",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 607,
+    "hangul": "일본",
+    "meaning": "Japan",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 608,
+    "hangul": "호주",
+    "meaning": "Australia",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 609,
+    "hangul": "캐나다",
+    "meaning": "Canada",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 610,
+    "hangul": "미국",
+    "meaning": "United States of America",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 611,
+    "hangul": "멕시코",
+    "meaning": "Mexico",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 612,
+    "hangul": "브라질",
+    "meaning": "Brazil",
+    "day": "DAY 27",
+    "category": "나라 Country names"
+  },
+  {
+    "id": 613,
+    "hangul": "축구",
+    "meaning": "soccer",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 614,
+    "hangul": "농구",
+    "meaning": "basketball",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 615,
+    "hangul": "배구",
+    "meaning": "volleyball",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 616,
+    "hangul": "야구",
+    "meaning": "baseball",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 617,
+    "hangul": "핸드볼",
+    "meaning": "handball",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 618,
+    "hangul": "테니스",
+    "meaning": "tennis",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 619,
+    "hangul": "당구",
+    "meaning": "billiards",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 620,
+    "hangul": "골프",
+    "meaning": "golf",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 621,
+    "hangul": "탁구",
+    "meaning": "table tennis",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 622,
+    "hangul": "하키",
+    "meaning": "field hockey",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 623,
+    "hangul": "배드민턴",
+    "meaning": "badminton",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 624,
+    "hangul": "펜싱",
+    "meaning": "fencing",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 625,
+    "hangul": "양궁",
+    "meaning": "archery",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 626,
+    "hangul": "역도",
+    "meaning": "weightlifting",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 627,
+    "hangul": "스케이트",
+    "meaning": "skating",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 628,
+    "hangul": "스키",
+    "meaning": "skiing",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 629,
+    "hangul": "검도",
+    "meaning": "kendo",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 630,
+    "hangul": "유도",
+    "meaning": "judo",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 631,
+    "hangul": "태권도",
+    "meaning": "taekwondo",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 632,
+    "hangul": "복싱",
+    "meaning": "boxing",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 633,
+    "hangul": "육상",
+    "meaning": "track and field",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 634,
+    "hangul": "마라톤",
+    "meaning": "marathon",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 635,
+    "hangul": "체조",
+    "meaning": "gymnastics",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 636,
+    "hangul": "수영",
+    "meaning": "swimming",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 637,
+    "hangul": "서핑",
+    "meaning": "surfing",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 638,
+    "hangul": "사이클",
+    "meaning": "cycling",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 639,
+    "hangul": "바둑",
+    "meaning": "go",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 640,
+    "hangul": "체스",
+    "meaning": "chess",
+    "day": "DAY 28",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 641,
+    "hangul": "코트",
+    "meaning": "coat",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 642,
+    "hangul": "자켓",
+    "meaning": "jacket",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 643,
+    "hangul": "스웨터",
+    "meaning": "sweater",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 644,
+    "hangul": "가디건",
+    "meaning": "cardigan",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 645,
+    "hangul": "니트",
+    "meaning": "knitwear",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 646,
+    "hangul": "반팔",
+    "meaning": "short-sleeve",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 647,
+    "hangul": "티셔츠",
+    "meaning": "t-shirt",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 648,
+    "hangul": "블라우스",
+    "meaning": "blouse",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 649,
+    "hangul": "와이셔츠",
+    "meaning": "dress shirt",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 650,
+    "hangul": "조끼",
+    "meaning": "vest",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 651,
+    "hangul": "바지",
+    "meaning": "pants, trousers",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 652,
+    "hangul": "반바지",
+    "meaning": "shorts",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 653,
+    "hangul": "청바지",
+    "meaning": "jeans",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 654,
+    "hangul": "원피스",
+    "meaning": "dress",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 655,
+    "hangul": "치마",
+    "meaning": "skirt",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 656,
+    "hangul": "모자",
+    "meaning": "hat",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 657,
+    "hangul": "머리 끈",
+    "meaning": "elastic hairtie",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 658,
+    "hangul": "머리띠",
+    "meaning": "hairband, headband",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 659,
+    "hangul": "선글라스",
+    "meaning": "sunglasses",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 660,
+    "hangul": "안경",
+    "meaning": "glasses",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 661,
+    "hangul": "귀고리",
+    "meaning": "earring",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 662,
+    "hangul": "목걸이",
+    "meaning": "necklace",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 663,
+    "hangul": "목도리",
+    "meaning": "scarf",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 664,
+    "hangul": "스카프",
+    "meaning": "silk scarf",
+    "day": "DAY 29",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 665,
+    "hangul": "넥타이",
+    "meaning": "tie",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 666,
+    "hangul": "브로치",
+    "meaning": "brooch",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 667,
+    "hangul": "허리띠/벨트",
+    "meaning": "belt",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 668,
+    "hangul": "팔찌",
+    "meaning": "bracelet",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 669,
+    "hangul": "손목시계",
+    "meaning": "watch",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 670,
+    "hangul": "전자시계",
+    "meaning": "electronic watch",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 671,
+    "hangul": "반지",
+    "meaning": "ring",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 672,
+    "hangul": "손수건",
+    "meaning": "handkerchief",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 673,
+    "hangul": "장갑",
+    "meaning": "gloves",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 674,
+    "hangul": "벙어리장갑",
+    "meaning": "mittens",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 675,
+    "hangul": "발찌",
+    "meaning": "anklet",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 676,
+    "hangul": "양말",
+    "meaning": "socks",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 677,
+    "hangul": "신발",
+    "meaning": "shoes",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 678,
+    "hangul": "구두",
+    "meaning": "dress shoes",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 679,
+    "hangul": "부츠",
+    "meaning": "boots",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 680,
+    "hangul": "슬리퍼",
+    "meaning": "slippers, flipflops",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 681,
+    "hangul": "운동화",
+    "meaning": "running shoes",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 682,
+    "hangul": "속옷",
+    "meaning": "underwear",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 683,
+    "hangul": "잠옷",
+    "meaning": "pajama",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 684,
+    "hangul": "교복",
+    "meaning": "school uniform",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 685,
+    "hangul": "수영복",
+    "meaning": "swimsuit",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 686,
+    "hangul": "유니폼",
+    "meaning": "uniform",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 687,
+    "hangul": "양복",
+    "meaning": "suit",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 688,
+    "hangul": "우비",
+    "meaning": "raincoat",
+    "day": "DAY 30",
+    "category": "운동 Sports"
+  },
+  {
+    "id": 689,
+    "hangul": "녹화 방송",
+    "meaning": "recorded show",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 690,
+    "hangul": "생방송",
+    "meaning": "live show",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 691,
+    "hangul": "본방송",
+    "meaning": "premiere",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 692,
+    "hangul": "재방송",
+    "meaning": "rerun",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 693,
+    "hangul": "시청률",
+    "meaning": "viewer ratings",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 694,
+    "hangul": "공백기",
+    "meaning": "hiatus",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 695,
+    "hangul": "신곡",
+    "meaning": "new song",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 696,
+    "hangul": "뮤직비디오",
+    "meaning": "music video",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 697,
+    "hangul": "가요 프로",
+    "meaning": "music show",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 698,
+    "hangul": "순위",
+    "meaning": "ranking",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 699,
+    "hangul": "안무",
+    "meaning": "choreography",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 700,
+    "hangul": "드라이 리허설",
+    "meaning": "dry run, dry rehearsal",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 701,
+    "hangul": "리허설",
+    "meaning": "rehearsal",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 702,
+    "hangul": "무대",
+    "meaning": "stage",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 703,
+    "hangul": "데뷔",
+    "meaning": "debut",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 704,
+    "hangul": "데뷔작",
+    "meaning": "debut work",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 705,
+    "hangul": "장르",
+    "meaning": "genre",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 706,
+    "hangul": "성형 수술",
+    "meaning": "plastic surgery",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 707,
+    "hangul": "연예인",
+    "meaning": "celebrity",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 708,
+    "hangul": "주연/주인공",
+    "meaning": "lead role",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 709,
+    "hangul": "조연",
+    "meaning": "supporting role",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 710,
+    "hangul": "촬영",
+    "meaning": "shooting",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 711,
+    "hangul": "촬영지",
+    "meaning": "filming location",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 712,
+    "hangul": "세트장",
+    "meaning": "filming site",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 713,
+    "hangul": "출연",
+    "meaning": "appearance",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 714,
+    "hangul": "출연진",
+    "meaning": "cast member",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 715,
+    "hangul": "출연료",
+    "meaning": "appearance fee",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 716,
+    "hangul": "팬 사인회",
+    "meaning": "fan signing",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 717,
+    "hangul": "팬미팅",
+    "meaning": "fan meeting",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 718,
+    "hangul": "팬클럽",
+    "meaning": "fan club",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 719,
+    "hangul": "팬클럽 회장",
+    "meaning": "president of fan club",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  },
+  {
+    "id": 720,
+    "hangul": "사생팬",
+    "meaning": "stalker fan",
+    "day": "DAY 31",
+    "category": "K-POP/K-DRAMA"
+  }
+]

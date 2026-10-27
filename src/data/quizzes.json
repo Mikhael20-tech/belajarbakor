@@ -1,0 +1,130 @@
+[
+  {
+    "id": "quiz-01",
+    "type": "context-guess",
+    "category": "Tebak Nuansa Kalimat (TOPIK II)",
+    "question": "Pilihlah arti kata yang tepat untuk kata yang dicetak tebal:",
+    "sentenceKo": "최근에 물가가 계속 **상승하여** 장을 보는 것이 부담스러워졌다.",
+    "targetWord": "상승하다",
+    "options": [
+      "Menurun",
+      "Meningkat / Naik",
+      "Stabil",
+      "Menghilang"
+    ],
+    "answer": 1,
+    "explanation": "상승하다 (sang-seung-ha-da) berarti 'meningkat / naik'. Konteks: tingkat harga (물가) terus naik sehingga belanja bulanan jadi beban."
+  },
+  {
+    "id": "quiz-02",
+    "type": "context-guess",
+    "category": "Tebak Nuansa Kalimat (TOPIK II)",
+    "question": "Pilihlah arti kata yang tepat untuk kata yang dicetak tebal:",
+    "sentenceKo": "코로나 이후 관광객 수가 **하락하여** 지역 상권이 어려움을 겪는다.",
+    "targetWord": "하락하다",
+    "options": [
+      "Turun / Merosot",
+      "Maju",
+      "Bertambah",
+      "Menarik"
+    ],
+    "answer": 0,
+    "explanation": "하락하다 (ha-rak-ha-da) adalah lawan kata dari 상승하다, artinya 'turun / merosot'. Konteks: jumlah wisatawan merosot sehingga perekonomian lokal kesulitan."
+  },
+  {
+    "id": "quiz-03",
+    "type": "context-guess",
+    "category": "Tebak Nuansa Kalimat (TOPIK II)",
+    "question": "Pilihlah arti kata yang tepat untuk kata yang dicetak tebal:",
+    "sentenceKo": "수술 후 일상생활로 **회복하기** 위해 물리치료를 받았다.",
+    "targetWord": "회복하다",
+    "options": [
+      "Memburuk",
+      "Pulih / Sembuh",
+      "Menyerah",
+      "Menunda"
+    ],
+    "answer": 1,
+    "explanation": "회복하다 (hoe-bok-ha-da) berarti 'pulih / sembuh / kembali sedia kala'. Konteks: menjalani fisioterapi untuk pulih ke kehidupan sehari-hari."
+  },
+  {
+    "id": "quiz-04",
+    "type": "grammar-fill",
+    "category": "Tata Bahasa TTMIK Level 1",
+    "question": "Lengkapilah kalimat berikut dengan kopula penanda benda yang tepat: '물(air)___'",
+    "sentenceKo": "이거는 물_____.",
+    "targetWord": "이에요 vs 예요",
+    "options": [
+      "이에요",
+      "예요",
+      "는",
+      "가"
+    ],
+    "answer": 0,
+    "explanation": "Karena '물' berakhiran huruf konsonan/batchim (ㄹ), maka menggunakan '이에요' (mul-i-e-yo)."
+  },
+  {
+    "id": "quiz-05",
+    "type": "grammar-fill",
+    "category": "Tata Bahasa TOPIK II",
+    "question": "Pilihlah pola tata bahasa yang menyatakan keadaan sedang berlangsung tanpa perubahan (while / in state of):",
+    "sentenceKo": "버스 안에서 앉은 _____ 잠자버렸다. (Saya tertidur dalam keadaan duduk di bus)",
+    "targetWord": "-(으)ㄴ 채(로)",
+    "options": [
+      "채로",
+      "김에",
+      "바람에",
+      "탓에"
+    ],
+    "answer": 0,
+    "explanation": "'-(으)ㄴ 채(로)' digunakan untuk menunjukkan tindakan kedua terjadi saat kondisi pertama tetap dipertahankan ('dalam keadaan duduk')."
+  },
+  {
+    "id": "quiz-06",
+    "type": "vocab-speed",
+    "category": "Kosakata Sehari-hari (720 Words)",
+    "question": "Apa arti dari kata '가을'?",
+    "sentenceKo": "가을이 오면 단풍이 아름답습니다.",
+    "targetWord": "가을",
+    "options": [
+      "Musim Semi",
+      "Musim Panas",
+      "Musim Gugur",
+      "Musim Dingin"
+    ],
+    "answer": 2,
+    "explanation": "가을 (ga-eul) berarti musim gugur (autumn/fall)."
+  },
+  {
+    "id": "quiz-07",
+    "type": "vocab-speed",
+    "category": "Kosakata Sehari-hari (720 Words)",
+    "question": "Apa arti dari kata '바다'?",
+    "sentenceKo": "여름에는 바다에 가고 싶어요.",
+    "targetWord": "바다",
+    "options": [
+      "Gunung",
+      "Laut / Samudra",
+      "Danau",
+      "Hutan"
+    ],
+    "answer": 1,
+    "explanation": "바다 (ba-da) berarti laut atau samudra (sea, ocean)."
+  },
+  {
+    "id": "quiz-08",
+    "type": "grammar-fill",
+    "category": "Tata Bahasa TTMIK Level 2",
+    "question": "Ubah kata kerja '먹다' (makan) menjadi bentuk lampau (past tense):",
+    "sentenceKo": "어제 불고기를 _____.",
+    "targetWord": "먹다 -> Past Tense",
+    "options": [
+      "먹았어요",
+      "먹었어요",
+      "먹했어요",
+      "먹겠어요"
+    ],
+    "answer": 1,
+    "explanation": "Vokal pada '먹' adalah 'ㅓ' (bukan ㅏ atau ㅗ), sehingga ditambahkan '-었어요' menjadi '먹었어요'."
+  }
+]

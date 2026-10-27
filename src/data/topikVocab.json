@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "no": 1,
+    "hangul": "가계부",
+    "meaning": "household account book"
+  },
+  {
+    "id": 2,
+    "no": 41,
+    "hangul": "감기다",
+    "meaning": "to be twined"
+  },
+  {
+    "id": 3,
+    "no": 2,
+    "hangul": "가구점",
+    "meaning": "furniture store"
+  },
+  {
+    "id": 4,
+    "no": 42,
+    "hangul": "감독",
+    "meaning": "director"
+  },
+  {
+    "id": 5,
+    "no": 3,
+    "hangul": "가까이",
+    "meaning": "near"
+  },
+  {
+    "id": 6,
+    "no": 43,
+    "hangul": "감동적",
+    "meaning": "moving (emotionally)"
+  },
+  {
+    "id": 7,
+    "no": 4,
+    "hangul": "가꾸다",
+    "meaning": "to cultivate"
+  },
+  {
+    "id": 8,
+    "no": 44,
+    "hangul": "감상",
+    "meaning": "appreciation"
+  },
+  {
+    "id": 9,
+    "no": 5,
+    "hangul": "가난",
+    "meaning": "poverty"
+  },
+  {
+    "id": 10,
+    "no": 45,
+    "hangul": "감소",
+    "meaning": "reduction"
+  },
+  {
+    "id": 11,
+    "no": 6,
+    "hangul": "가늘다",
+    "meaning": "to be thin"
+  },
+  {
+    "id": 12,
+    "no": 46,
+    "hangul": "감정",
+    "meaning": "emotion"
+  },
+  {
+    "id": 13,
+    "no": 7,
+    "hangul": "가능",
+    "meaning": "possibility, potentiality"
+  },
+  {
+    "id": 14,
+    "no": 47,
+    "hangul": "감탄",
+    "meaning": "admiration"
+  },
+  {
+    "id": 15,
+    "no": 8,
+    "hangul": "가능성",
+    "meaning": "possibility"
+  },
+  {
+    "id": 16,
+    "no": 48,
+    "hangul": "강물",
+    "meaning": "river water"
+  },
+  {
+    "id": 17,
+    "no": 9,
+    "hangul": "가능하다",
+    "meaning": "to be possible"
+  },
+  {
+    "id": 18,
+    "no": 49,
+    "hangul": "강변",
+    "meaning": "riverside"
+  },
+  {
+    "id": 19,
+    "no": 10,
+    "hangul": "가득",
+    "meaning": "full"
+  },
+  {
+    "id": 20,
+    "no": 50,
+    "hangul": "강사",
+    "meaning": "teacher"
+  },
+  {
+    "id": 21,
+    "no": 11,
+    "hangul": "가라앉다",
+    "meaning": "to sink"
+  },
+  {
+    "id": 22,
+    "no": 51,
+    "hangul": "강수량",
+    "meaning": "rain precipitation"
+  },
+  {
+    "id": 23,
+    "no": 12,
+    "hangul": "가렵다",
+    "meaning": "to be itchy"
+  },
+  {
+    "id": 24,
+    "no": 52,
+    "hangul": "강연",
+    "meaning": "lecture"
+  },
+  {
+    "id": 25,
+    "no": 13,
+    "hangul": "가루비누",
+    "meaning": "powder soap"
+  },
+  {
+    "id": 26,
+    "no": 53,
+    "hangul": "강우량",
+    "meaning": "(the amount of) rainfall"
+  },
+  {
+    "id": 27,
+    "no": 14,
+    "hangul": "가리다",
+    "meaning": "to distinguish"
+  },
+  {
+    "id": 28,
+    "no": 54,
+    "hangul": "강의",
+    "meaning": "lecture"
+  },
+  {
+    "id": 29,
+    "no": 15,
+    "hangul": "가리키다",
+    "meaning": "to indicate"
+  },
+  {
+    "id": 30,
+    "no": 55,
+    "hangul": "강의실",
+    "meaning": "lecture hall"
+  },
+  {
+    "id": 31,
+    "no": 16,
+    "hangul": "가만히",
+    "meaning": "motionlessly"
+  },
+  {
+    "id": 32,
+    "no": 56,
+    "hangul": "강조",
+    "meaning": "emphasis"
+  },
+  {
+    "id": 33,
+    "no": 17,
+    "hangul": "가뭄",
+    "meaning": "drought"
+  },
+  {
+    "id": 34,
+    "no": 57,
+    "hangul": "강하다",
+    "meaning": "to be strong"
+  },
+  {
+    "id": 35,
+    "no": 18,
+    "hangul": "가사",
+    "meaning": "housework"
+  },
+  {
+    "id": 36,
+    "no": 58,
+    "hangul": "갖추다",
+    "meaning": "to prepare"
+  },
+  {
+    "id": 37,
+    "no": 19,
+    "hangul": "가상",
+    "meaning": "virtual"
+  },
+  {
+    "id": 38,
+    "no": 59,
+    "hangul": "갚다",
+    "meaning": "to return, to reward"
+  },
+  {
+    "id": 39,
+    "no": 20,
+    "hangul": "가스",
+    "meaning": "gas"
+  },
+  {
+    "id": 40,
+    "no": 60,
+    "hangul": "개강",
+    "meaning": "start of course (lecture)"
+  },
+  {
+    "id": 41,
+    "no": 21,
+    "hangul": "가습기",
+    "meaning": "humidifier"
+  },
+  {
+    "id": 42,
+    "no": 61,
+    "hangul": "개구리",
+    "meaning": "frog"
+  },
+  {
+    "id": 43,
+    "no": 22,
+    "hangul": "가입",
+    "meaning": "entry"
+  },
+  {
+    "id": 44,
+    "no": 62,
+    "hangul": "개구쟁이",
+    "meaning": "naughty child"
+  },
+  {
+    "id": 45,
+    "no": 23,
+    "hangul": "가전제품",
+    "meaning": "home appliances"
+  },
+  {
+    "id": 46,
+    "no": 63,
+    "hangul": "개다",
+    "meaning": "to clear up"
+  },
+  {
+    "id": 47,
+    "no": 24,
+    "hangul": "가정",
+    "meaning": "family"
+  },
+  {
+    "id": 48,
+    "no": 64,
+    "hangul": "개막식",
+    "meaning": "opening ceremony"
+  },
+  {
+    "id": 49,
+    "no": 25,
+    "hangul": "가족적",
+    "meaning": "being family-oriented"
+  },
+  {
+    "id": 50,
+    "no": 65,
+    "hangul": "개발",
+    "meaning": "development"
+  },
+  {
+    "id": 51,
+    "no": 26,
+    "hangul": "가축",
+    "meaning": "livestock"
+  },
+  {
+    "id": 52,
+    "no": 66,
+    "hangul": "개방",
+    "meaning": "opening, opening to the public"
+  },
+  {
+    "id": 53,
+    "no": 27,
+    "hangul": "가치",
+    "meaning": "value"
+  },
+  {
+    "id": 54,
+    "no": 67,
+    "hangul": "개방적",
+    "meaning": "being open"
+  },
+  {
+    "id": 55,
+    "no": 28,
+    "hangul": "각각",
+    "meaning": "separately, each"
+  },
+  {
+    "id": 56,
+    "no": 68,
+    "hangul": "개선",
+    "meaning": "improvement"
+  },
+  {
+    "id": 57,
+    "no": 29,
+    "hangul": "각자",
+    "meaning": "each one"
+  },
+  {
+    "id": 58,
+    "no": 69,
+    "hangul": "개성",
+    "meaning": "individuality"
+  },
+  {
+    "id": 59,
+    "no": 30,
+    "hangul": "각종",
+    "meaning": "various"
+  },
+  {
+    "id": 60,
+    "no": 70,
+    "hangul": "개성적",
+    "meaning": "being characteristic"
+  },
+  {
+    "id": 61,
+    "no": 31,
+    "hangul": "간격",
+    "meaning": "interval"
+  },
+  {
+    "id": 62,
+    "no": 71,
+    "hangul": "개인적",
+    "meaning": "being personal"
+  },
+  {
+    "id": 63,
+    "no": 32,
+    "hangul": "간절히",
+    "meaning": "eagerly"
+  },
+  {
+    "id": 64,
+    "no": 72,
+    "hangul": "개최",
+    "meaning": "hosting (an event)"
+  },
+  {
+    "id": 65,
+    "no": 33,
+    "hangul": "간접적",
+    "meaning": "being indirect"
+  },
+  {
+    "id": 66,
+    "no": 73,
+    "hangul": "객관적",
+    "meaning": "being objective"
+  },
+  {
+    "id": 67,
+    "no": 34,
+    "hangul": "간판",
+    "meaning": "signboard"
+  },
+  {
+    "id": 68,
+    "no": 74,
+    "hangul": "객실",
+    "meaning": "guest room"
+  },
+  {
+    "id": 69,
+    "no": 35,
+    "hangul": "간호",
+    "meaning": "nursing"
+  },
+  {
+    "id": 70,
+    "no": 75,
+    "hangul": "갸름하다",
+    "meaning": "to be slim and long"
+  },
+  {
+    "id": 71,
+    "no": 36,
+    "hangul": "갈다",
+    "meaning": "to change"
+  },
+  {
+    "id": 72,
+    "no": 76,
+    "hangul": "걔",
+    "meaning": "that person"
+  },
+  {
+    "id": 73,
+    "no": 37,
+    "hangul": "갈등",
+    "meaning": "conflict"
+  },
+  {
+    "id": 74,
+    "no": 77,
+    "hangul": "거래",
+    "meaning": "transaction"
+  },
+  {
+    "id": 75,
+    "no": 38,
+    "hangul": "갈수록",
+    "meaning": "more and more"
+  },
+  {
+    "id": 76,
+    "no": 78,
+    "hangul": "거미",
+    "meaning": "spider"
+  },
+  {
+    "id": 77,
+    "no": 39,
+    "hangul": "갈아입다",
+    "meaning": "to change clothes"
+  },
+  {
+    "id": 78,
+    "no": 79,
+    "hangul": "거북이",
+    "meaning": "turtle"
+  },
+  {
+    "id": 79,
+    "no": 40,
+    "hangul": "감각",
+    "meaning": "sense"
+  },
+  {
+    "id": 80,
+    "no": 80,
+    "hangul": "거스름돈",
+    "meaning": "change"
+  },
+  {
+    "id": 81,
+    "no": 81,
+    "hangul": "거절",
+    "meaning": "rejection"
+  },
+  {
+    "id": 82,
+    "no": 121,
+    "hangul": "결심",
+    "meaning": "decision"
+  },
+  {
+    "id": 83,
+    "no": 82,
+    "hangul": "거짓",
+    "meaning": "lies"
+  },
+  {
+    "id": 84,
+    "no": 122,
+    "hangul": "결코",
+    "meaning": "never"
+  },
+  {
+    "id": 85,
+    "no": 83,
+    "hangul": "거치다",
+    "meaning": "to go through"
+  },
+  {
+    "id": 86,
+    "no": 123,
+    "hangul": "결혼기념일",
+    "meaning": "wedding anniversary"
+  },
+  {
+    "id": 87,
+    "no": 84,
+    "hangul": "거품",
+    "meaning": "bubble"
+  },
+  {
+    "id": 88,
+    "no": 124,
+    "hangul": "결혼식장",
+    "meaning": "wedding hall"
+  },
+  {
+    "id": 89,
+    "no": 85,
+    "hangul": "걱정거리",
+    "meaning": "worries"
+  },
+  {
+    "id": 90,
+    "no": 125,
+    "hangul": "겸손",
+    "meaning": "humility"
+  },
+  {
+    "id": 91,
+    "no": 86,
+    "hangul": "건강식",
+    "meaning": "healthy diet"
+  },
+  {
+    "id": 92,
+    "no": 126,
+    "hangul": "겹치다",
+    "meaning": "overlap"
+  },
+  {
+    "id": 93,
+    "no": 87,
+    "hangul": "건강식품",
+    "meaning": "healthy food"
+  },
+  {
+    "id": 94,
+    "no": 127,
+    "hangul": "경고",
+    "meaning": "warning"
+  },
+  {
+    "id": 95,
+    "no": 88,
+    "hangul": "건너",
+    "meaning": "across"
+  },
+  {
+    "id": 96,
+    "no": 128,
+    "hangul": "경력",
+    "meaning": "career"
+  },
+  {
+    "id": 97,
+    "no": 89,
+    "hangul": "건네다",
+    "meaning": "to hand over, to start (a conversation)"
+  },
+  {
+    "id": 98,
+    "no": 129,
+    "hangul": "경비",
+    "meaning": "security"
+  },
+  {
+    "id": 99,
+    "no": 90,
+    "hangul": "건더기",
+    "meaning": "solid ingredients of a soup"
+  },
+  {
+    "id": 100,
+    "no": 130,
+    "hangul": "경비원",
+    "meaning": "security guard"
+  },
+  {
+    "id": 101,
+    "no": 91,
+    "hangul": "건망증",
+    "meaning": "forgetfulness"
+  },
+  {
+    "id": 102,
+    "no": 131,
+    "hangul": "경영",
+    "meaning": "management"
+  },
+  {
+    "id": 103,
+    "no": 92,
+    "hangul": "건설",
+    "meaning": "construction"
+  },
+  {
+    "id": 104,
+    "no": 132,
+    "hangul": "경영자",
+    "meaning": "executive, CEO"
+  },
+  {
+    "id": 105,
+    "no": 93,
+    "hangul": "건전지",
+    "meaning": "batteries"
+  },
+  {
+    "id": 106,
+    "no": 133,
+    "hangul": "경영학",
+    "meaning": "business administration"
+  },
+  {
+    "id": 107,
+    "no": 94,
+    "hangul": "건조",
+    "meaning": "dry"
+  },
+  {
+    "id": 108,
+    "no": 134,
+    "hangul": "경우",
+    "meaning": "case, circumstance"
+  },
+  {
+    "id": 109,
+    "no": 95,
+    "hangul": "건축",
+    "meaning": "architecture"
+  },
+  {
+    "id": 110,
+    "no": 135,
+    "hangul": "경쟁",
+    "meaning": "competition"
+  },
+  {
+    "id": 111,
+    "no": 96,
+    "hangul": "건축가",
+    "meaning": "architect"
+  },
+  {
+    "id": 112,
+    "no": 136,
+    "hangul": "경쟁력",
+    "meaning": "competitiveness"
+  },
+  {
+    "id": 113,
+    "no": 97,
+    "hangul": "걸레",
+    "meaning": "rag"
+  },
+  {
+    "id": 114,
+    "no": 137,
+    "hangul": "경제",
+    "meaning": "economy"
+  },
+  {
+    "id": 115,
+    "no": 98,
+    "hangul": "걸레질",
+    "meaning": "mopping"
+  },
+  {
+    "id": 116,
+    "no": 138,
+    "hangul": "경제력",
+    "meaning": "economic power"
+  },
+  {
+    "id": 117,
+    "no": 99,
+    "hangul": "걸음",
+    "meaning": "steps"
+  },
+  {
+    "id": 118,
+    "no": 139,
+    "hangul": "경제적",
+    "meaning": "being economic"
+  },
+  {
+    "id": 119,
+    "no": 100,
+    "hangul": "검다",
+    "meaning": "black"
+  },
+  {
+    "id": 120,
+    "no": 140,
+    "hangul": "경제학",
+    "meaning": "economics"
+  },
+  {
+    "id": 121,
+    "no": 101,
+    "hangul": "검사",
+    "meaning": "inspection"
+  },
+  {
+    "id": 122,
+    "no": 141,
+    "hangul": "계산",
+    "meaning": "calculation, accounting"
+  },
+  {
+    "id": 123,
+    "no": 102,
+    "hangul": "검색",
+    "meaning": "search"
+  },
+  {
+    "id": 124,
+    "no": 142,
+    "hangul": "계산대",
+    "meaning": "cashier"
+  },
+  {
+    "id": 125,
+    "no": 103,
+    "hangul": "검색어",
+    "meaning": "search word"
+  },
+  {
+    "id": 126,
+    "no": 143,
+    "hangul": "계산서",
+    "meaning": "check, bill"
+  },
+  {
+    "id": 127,
+    "no": 104,
+    "hangul": "겁",
+    "meaning": "fear"
+  },
+  {
+    "id": 128,
+    "no": 144,
+    "hangul": "계약",
+    "meaning": "contract"
+  },
+  {
+    "id": 129,
+    "no": 105,
+    "hangul": "겉",
+    "meaning": "side, outside"
+  },
+  {
+    "id": 130,
+    "no": 145,
+    "hangul": "계약금",
+    "meaning": "down payment"
+  },
+  {
+    "id": 131,
+    "no": 106,
+    "hangul": "겉모습",
+    "meaning": "appearance"
+  },
+  {
+    "id": 132,
+    "no": 146,
+    "hangul": "계약서",
+    "meaning": "(written) contract"
+  },
+  {
+    "id": 133,
+    "no": 107,
+    "hangul": "게다가",
+    "meaning": "besides, in addition"
+  },
+  {
+    "id": 134,
+    "no": 147,
+    "hangul": "계좌",
+    "meaning": "bank account"
+  },
+  {
+    "id": 135,
+    "no": 108,
+    "hangul": "게시판",
+    "meaning": "bulletin board"
+  },
+  {
+    "id": 136,
+    "no": 148,
+    "hangul": "계층",
+    "meaning": "hierarchy"
+  },
+  {
+    "id": 137,
+    "no": 109,
+    "hangul": "게으르다",
+    "meaning": "to be lazy"
+  },
+  {
+    "id": 138,
+    "no": 149,
+    "hangul": "계획성",
+    "meaning": "planning"
+  },
+  {
+    "id": 139,
+    "no": 110,
+    "hangul": "게임기",
+    "meaning": "game machine"
+  },
+  {
+    "id": 140,
+    "no": 150,
+    "hangul": "계획적",
+    "meaning": "being planned, as planned"
+  },
+  {
+    "id": 141,
+    "no": 111,
+    "hangul": "겨우",
+    "meaning": "barely, finally"
+  },
+  {
+    "id": 142,
+    "no": 151,
+    "hangul": "고개",
+    "meaning": "head, hill"
+  },
+  {
+    "id": 143,
+    "no": 112,
+    "hangul": "격려",
+    "meaning": "encouragement"
+  },
+  {
+    "id": 144,
+    "no": 152,
+    "hangul": "고객",
+    "meaning": "client, customer"
+  },
+  {
+    "id": 145,
+    "no": 113,
+    "hangul": "겪다",
+    "meaning": "to experience, to go through"
+  },
+  {
+    "id": 146,
+    "no": 153,
+    "hangul": "고구마",
+    "meaning": "sweet potato"
+  },
+  {
+    "id": 147,
+    "no": 114,
+    "hangul": "견디다",
+    "meaning": "to endure"
+  },
+  {
+    "id": 148,
+    "no": 154,
+    "hangul": "고궁",
+    "meaning": "traditional Korean palace"
+  },
+  {
+    "id": 149,
+    "no": 115,
+    "hangul": "결과적",
+    "meaning": "being as a result"
+  },
+  {
+    "id": 150,
+    "no": 155,
+    "hangul": "고급",
+    "meaning": "high grade"
+  },
+  {
+    "id": 151,
+    "no": 116,
+    "hangul": "결국",
+    "meaning": "after all"
+  },
+  {
+    "id": 152,
+    "no": 156,
+    "hangul": "고래",
+    "meaning": "whale"
+  },
+  {
+    "id": 153,
+    "no": 117,
+    "hangul": "결론",
+    "meaning": "conclusion"
+  },
+  {
+    "id": 154,
+    "no": 157,
+    "hangul": "고마움",
+    "meaning": "thankfulness"
+  },
+  {
+    "id": 155,
+    "no": 118,
+    "hangul": "결말",
+    "meaning": "end (of a story)"
+  },
+  {
+    "id": 156,
+    "no": 158,
+    "hangul": "고무신",
+    "meaning": "rubber shoes"
+  },
+  {
+    "id": 157,
+    "no": 119,
+    "hangul": "결석",
+    "meaning": "absence"
+  },
+  {
+    "id": 158,
+    "no": 159,
+    "hangul": "고무줄",
+    "meaning": "rubber band"
+  },
+  {
+    "id": 159,
+    "no": 120,
+    "hangul": "결승전",
+    "meaning": "final game/round"
+  },
+  {
+    "id": 160,
+    "no": 160,
+    "hangul": "고민",
+    "meaning": "worry, trouble"
+  },
+  {
+    "id": 161,
+    "no": 161,
+    "hangul": "고백",
+    "meaning": "confession"
+  },
+  {
+    "id": 162,
+    "no": 201,
+    "hangul": "과장",
+    "meaning": "manager"
+  },
+  {
+    "id": 163,
+    "no": 162,
+    "hangul": "고생",
+    "meaning": "hardship"
+  },
+  {
+    "id": 164,
+    "no": 202,
+    "hangul": "과장하다",
+    "meaning": "to exaggerate"
+  },
+  {
+    "id": 165,
+    "no": 163,
+    "hangul": "고소하다",
+    "meaning": "to be nutty"
+  },
+  {
+    "id": 166,
+    "no": 203,
+    "hangul": "과정",
+    "meaning": "process"
+  },
+  {
+    "id": 167,
+    "no": 164,
+    "hangul": "고속",
+    "meaning": "high speed"
+  },
+  {
+    "id": 168,
+    "no": 204,
+    "hangul": "과제",
+    "meaning": "task"
+  },
+  {
+    "id": 169,
+    "no": 165,
+    "hangul": "고속도로",
+    "meaning": "highway"
+  },
+  {
+    "id": 170,
+    "no": 205,
+    "hangul": "과학자",
+    "meaning": "scientists"
+  },
+  {
+    "id": 171,
+    "no": 166,
+    "hangul": "고아원",
+    "meaning": "orphanage"
+  },
+  {
+    "id": 172,
+    "no": 206,
+    "hangul": "과학적",
+    "meaning": "being scientific"
+  },
+  {
+    "id": 173,
+    "no": 167,
+    "hangul": "고유하다",
+    "meaning": "unique"
+  },
+  {
+    "id": 174,
+    "no": 207,
+    "hangul": "관객",
+    "meaning": "audience"
+  },
+  {
+    "id": 175,
+    "no": 168,
+    "hangul": "고지서",
+    "meaning": "notice"
+  },
+  {
+    "id": 176,
+    "no": 208,
+    "hangul": "관계없다",
+    "meaning": "to be unrelated"
+  },
+  {
+    "id": 177,
+    "no": 169,
+    "hangul": "고집",
+    "meaning": "persistence"
+  },
+  {
+    "id": 178,
+    "no": 209,
+    "hangul": "관계자",
+    "meaning": "the person concerned"
+  },
+  {
+    "id": 179,
+    "no": 170,
+    "hangul": "고춧가루",
+    "meaning": "pepper powder"
+  },
+  {
+    "id": 180,
+    "no": 210,
+    "hangul": "관광",
+    "meaning": "tourism"
+  },
+  {
+    "id": 181,
+    "no": 171,
+    "hangul": "고층",
+    "meaning": "upper floors"
+  },
+  {
+    "id": 182,
+    "no": 211,
+    "hangul": "관광객",
+    "meaning": "tourist"
+  },
+  {
+    "id": 183,
+    "no": 172,
+    "hangul": "고통",
+    "meaning": "pain"
+  },
+  {
+    "id": 184,
+    "no": 212,
+    "hangul": "관광지",
+    "meaning": "tourist attraction"
+  },
+  {
+    "id": 185,
+    "no": 173,
+    "hangul": "곤란",
+    "meaning": "difficulty"
+  },
+  {
+    "id": 186,
+    "no": 213,
+    "hangul": "관람",
+    "meaning": "viewing"
+  },
+  {
+    "id": 187,
+    "no": 174,
+    "hangul": "골고루",
+    "meaning": "evenly"
+  },
+  {
+    "id": 188,
+    "no": 214,
+    "hangul": "관람객",
+    "meaning": "audience"
+  },
+  {
+    "id": 189,
+    "no": 175,
+    "hangul": "골목길",
+    "meaning": "alley"
+  },
+  {
+    "id": 190,
+    "no": 215,
+    "hangul": "관련",
+    "meaning": "relation"
+  },
+  {
+    "id": 191,
+    "no": 176,
+    "hangul": "골치가 아프다 to be annoying",
+    "meaning": "216"
+  },
+  {
+    "id": 192,
+    "no": 177,
+    "hangul": "곰",
+    "meaning": "bear"
+  },
+  {
+    "id": 193,
+    "no": 217,
+    "hangul": "관리",
+    "meaning": "management"
+  },
+  {
+    "id": 194,
+    "no": 178,
+    "hangul": "곱슬머리",
+    "meaning": "natural curly hair"
+  },
+  {
+    "id": 195,
+    "no": 218,
+    "hangul": "관리실",
+    "meaning": "management room"
+  },
+  {
+    "id": 196,
+    "no": 179,
+    "hangul": "곳곳",
+    "meaning": "here and there, everywhere"
+  },
+  {
+    "id": 197,
+    "no": 219,
+    "hangul": "관용어",
+    "meaning": "idiom"
+  },
+  {
+    "id": 198,
+    "no": 180,
+    "hangul": "공공요금",
+    "meaning": "utility charges"
+  },
+  {
+    "id": 199,
+    "no": 220,
+    "hangul": "관찰",
+    "meaning": "observation"
+  },
+  {
+    "id": 200,
+    "no": 181,
+    "hangul": "공공장소",
+    "meaning": "public place"
+  },
+  {
+    "id": 201,
+    "no": 221,
+    "hangul": "광장",
+    "meaning": "square, plaza"
+  },
+  {
+    "id": 202,
+    "no": 182,
+    "hangul": "공동",
+    "meaning": "joint"
+  },
+  {
+    "id": 203,
+    "no": 222,
+    "hangul": "괜히",
+    "meaning": "for no reason"
+  },
+  {
+    "id": 204,
+    "no": 183,
+    "hangul": "공동생활",
+    "meaning": "community life"
+  },
+  {
+    "id": 205,
+    "no": 223,
+    "hangul": "괴로움",
+    "meaning": "agony, distress"
+  },
+  {
+    "id": 206,
+    "no": 184,
+    "hangul": "공사",
+    "meaning": "construction"
+  },
+  {
+    "id": 207,
+    "no": 224,
+    "hangul": "괴로워하다",
+    "meaning": "to be distressed"
+  },
+  {
+    "id": 208,
+    "no": 185,
+    "hangul": "공손하다",
+    "meaning": "to be polite"
+  },
+  {
+    "id": 209,
+    "no": 225,
+    "hangul": "괴롭다",
+    "meaning": "to be painful"
+  },
+  {
+    "id": 210,
+    "no": 186,
+    "hangul": "공연장",
+    "meaning": "performance hall"
+  },
+  {
+    "id": 211,
+    "no": 226,
+    "hangul": "괴롭히다",
+    "meaning": "to harass, to bully"
+  },
+  {
+    "id": 212,
+    "no": 187,
+    "hangul": "공장",
+    "meaning": "factory"
+  },
+  {
+    "id": 213,
+    "no": 227,
+    "hangul": "굉장하다",
+    "meaning": "to be great, to be wonderful"
+  },
+  {
+    "id": 214,
+    "no": 188,
+    "hangul": "공주",
+    "meaning": "princess"
+  },
+  {
+    "id": 215,
+    "no": 228,
+    "hangul": "굉장히",
+    "meaning": "extremely, to a great extent"
+  },
+  {
+    "id": 216,
+    "no": 189,
+    "hangul": "공통",
+    "meaning": "common"
+  },
+  {
+    "id": 217,
+    "no": 229,
+    "hangul": "교사",
+    "meaning": "teacher"
+  },
+  {
+    "id": 218,
+    "no": 190,
+    "hangul": "공통점",
+    "meaning": "common point"
+  },
+  {
+    "id": 219,
+    "no": 230,
+    "hangul": "교외",
+    "meaning": "suburbs"
+  },
+  {
+    "id": 220,
+    "no": 191,
+    "hangul": "공포",
+    "meaning": "fear"
+  },
+  {
+    "id": 221,
+    "no": 231,
+    "hangul": "교육",
+    "meaning": "education"
+  },
+  {
+    "id": 222,
+    "no": 192,
+    "hangul": "공해",
+    "meaning": "pollution"
+  },
+  {
+    "id": 223,
+    "no": 232,
+    "hangul": "교육자",
+    "meaning": "educator"
+  },
+  {
+    "id": 224,
+    "no": 193,
+    "hangul": "과로",
+    "meaning": "overwork"
+  },
+  {
+    "id": 225,
+    "no": 233,
+    "hangul": "교육학",
+    "meaning": "pedagogy"
+  },
+  {
+    "id": 226,
+    "no": 194,
+    "hangul": "과목",
+    "meaning": "(class) subject"
+  },
+  {
+    "id": 227,
+    "no": 234,
+    "hangul": "교재",
+    "meaning": "teaching materials"
+  },
+  {
+    "id": 228,
+    "no": 195,
+    "hangul": "과소비",
+    "meaning": "waste (of use)"
+  },
+  {
+    "id": 229,
+    "no": 235,
+    "hangul": "교통수단",
+    "meaning": "transportation"
+  },
+  {
+    "id": 230,
+    "no": 196,
+    "hangul": "과속",
+    "meaning": "speed violation"
+  },
+  {
+    "id": 231,
+    "no": 236,
+    "hangul": "교통편",
+    "meaning": "transportation"
+  },
+  {
+    "id": 232,
+    "no": 197,
+    "hangul": "과식",
+    "meaning": "overeating"
+  },
+  {
+    "id": 233,
+    "no": 237,
+    "hangul": "교포",
+    "meaning": "overseas resident"
+  },
+  {
+    "id": 234,
+    "no": 198,
+    "hangul": "과연",
+    "meaning": "as expected"
+  },
+  {
+    "id": 235,
+    "no": 238,
+    "hangul": "교환",
+    "meaning": "exchange"
+  },
+  {
+    "id": 236,
+    "no": 199,
+    "hangul": "과외",
+    "meaning": "tutor lesson"
+  },
+  {
+    "id": 237,
+    "no": 239,
+    "hangul": "구두쇠",
+    "meaning": "a stingy person"
+  },
+  {
+    "id": 238,
+    "no": 200,
+    "hangul": "과음",
+    "meaning": "excessive drinking"
+  },
+  {
+    "id": 239,
+    "no": 240,
+    "hangul": "구르다",
+    "meaning": "to roll"
+  },
+  {
+    "id": 240,
+    "no": 241,
+    "hangul": "구매",
+    "meaning": "purchase"
+  },
+  {
+    "id": 241,
+    "no": 281,
+    "hangul": "그래야",
+    "meaning": "so that"
+  },
+  {
+    "id": 242,
+    "no": 242,
+    "hangul": "구멍",
+    "meaning": "hole"
+  },
+  {
+    "id": 243,
+    "no": 282,
+    "hangul": "그래프",
+    "meaning": "graph"
+  },
+  {
+    "id": 244,
+    "no": 243,
+    "hangul": "구별",
+    "meaning": "distinction"
+  },
+  {
+    "id": 245,
+    "no": 283,
+    "hangul": "그러니",
+    "meaning": "therefore"
+  },
+  {
+    "id": 246,
+    "no": 244,
+    "hangul": "구분",
+    "meaning": "classification"
+  },
+  {
+    "id": 247,
+    "no": 284,
+    "hangul": "그러다가",
+    "meaning": "and then"
+  },
+  {
+    "id": 248,
+    "no": 245,
+    "hangul": "구성",
+    "meaning": "composition"
+  },
+  {
+    "id": 249,
+    "no": 285,
+    "hangul": "그러므로",
+    "meaning": "hence"
+  },
+  {
+    "id": 250,
+    "no": 246,
+    "hangul": "구이",
+    "meaning": "grill"
+  },
+  {
+    "id": 251,
+    "no": 286,
+    "hangul": "그러자",
+    "meaning": "and then"
+  },
+  {
+    "id": 252,
+    "no": 247,
+    "hangul": "구인",
+    "meaning": "a job offer"
+  },
+  {
+    "id": 253,
+    "no": 287,
+    "hangul": "그러하다",
+    "meaning": "so, as such, like that"
+  },
+  {
+    "id": 254,
+    "no": 248,
+    "hangul": "구입",
+    "meaning": "purchase"
+  },
+  {
+    "id": 255,
+    "no": 288,
+    "hangul": "그루",
+    "meaning": "(how to count trees), stump"
+  },
+  {
+    "id": 256,
+    "no": 249,
+    "hangul": "구조",
+    "meaning": "structure"
+  },
+  {
+    "id": 257,
+    "no": 289,
+    "hangul": "그룹",
+    "meaning": "group"
+  },
+  {
+    "id": 258,
+    "no": 250,
+    "hangul": "구조대",
+    "meaning": "rescue team"
+  },
+  {
+    "id": 259,
+    "no": 290,
+    "hangul": "그리",
+    "meaning": "so, very, that"
+  },
+  {
+    "id": 260,
+    "no": 251,
+    "hangul": "구체적",
+    "meaning": "being specific"
+  },
+  {
+    "id": 261,
+    "no": 291,
+    "hangul": "그리워하다",
+    "meaning": "to miss, to be nostalgic"
+  },
+  {
+    "id": 262,
+    "no": 252,
+    "hangul": "국가",
+    "meaning": "nation"
+  },
+  {
+    "id": 263,
+    "no": 292,
+    "hangul": "그리하여",
+    "meaning": "then"
+  },
+  {
+    "id": 264,
+    "no": 253,
+    "hangul": "국그릇",
+    "meaning": "soup bowl"
+  },
+  {
+    "id": 265,
+    "no": 293,
+    "hangul": "그림책",
+    "meaning": "picture book"
+  },
+  {
+    "id": 266,
+    "no": 254,
+    "hangul": "국내선",
+    "meaning": "domestic flights"
+  },
+  {
+    "id": 267,
+    "no": 294,
+    "hangul": "그립다",
+    "meaning": "to be nostalgic, to be missed"
+  },
+  {
+    "id": 268,
+    "no": 255,
+    "hangul": "국문학",
+    "meaning": "(the country's) literature"
+  },
+  {
+    "id": 269,
+    "no": 295,
+    "hangul": "그만두다",
+    "meaning": "to quit"
+  },
+  {
+    "id": 270,
+    "no": 256,
+    "hangul": "국물",
+    "meaning": "soup bowl"
+  },
+  {
+    "id": 271,
+    "no": 296,
+    "hangul": "그만큼",
+    "meaning": "that much"
+  },
+  {
+    "id": 272,
+    "no": 257,
+    "hangul": "국민",
+    "meaning": "citizens"
+  },
+  {
+    "id": 273,
+    "no": 297,
+    "hangul": "그저",
+    "meaning": "just"
+  },
+  {
+    "id": 274,
+    "no": 258,
+    "hangul": "국악",
+    "meaning": "traditional Korean music"
+  },
+  {
+    "id": 275,
+    "no": 298,
+    "hangul": "근데",
+    "meaning": "by the way"
+  },
+  {
+    "id": 276,
+    "no": 259,
+    "hangul": "국외",
+    "meaning": "overseas resident"
+  },
+  {
+    "id": 277,
+    "no": 299,
+    "hangul": "근로자",
+    "meaning": "worker, laborer"
+  },
+  {
+    "id": 278,
+    "no": 260,
+    "hangul": "국제결혼",
+    "meaning": "international marriage"
+  },
+  {
+    "id": 279,
+    "no": 300,
+    "hangul": "근무",
+    "meaning": "work"
+  },
+  {
+    "id": 280,
+    "no": 261,
+    "hangul": "국제선",
+    "meaning": "international flights"
+  },
+  {
+    "id": 281,
+    "no": 301,
+    "hangul": "근육",
+    "meaning": "muscle"
+  },
+  {
+    "id": 282,
+    "no": 262,
+    "hangul": "국화",
+    "meaning": "chrysanthemum"
+  },
+  {
+    "id": 283,
+    "no": 302,
+    "hangul": "글쎄",
+    "meaning": "oh well"
+  },
+  {
+    "id": 284,
+    "no": 263,
+    "hangul": "군대",
+    "meaning": "army"
+  },
+  {
+    "id": 285,
+    "no": 303,
+    "hangul": "글쓴이",
+    "meaning": "author"
+  },
+  {
+    "id": 286,
+    "no": 264,
+    "hangul": "군데",
+    "meaning": "place"
+  },
+  {
+    "id": 287,
+    "no": 304,
+    "hangul": "글씨",
+    "meaning": "letter"
+  },
+  {
+    "id": 288,
+    "no": 265,
+    "hangul": "굵다",
+    "meaning": "to be thick"
+  },
+  {
+    "id": 289,
+    "no": 305,
+    "hangul": "글자",
+    "meaning": "letter"
+  },
+  {
+    "id": 290,
+    "no": 266,
+    "hangul": "궁금증",
+    "meaning": "curiosity"
+  },
+  {
+    "id": 291,
+    "no": 306,
+    "hangul": "긁다",
+    "meaning": "to scratch"
+  },
+  {
+    "id": 292,
+    "no": 267,
+    "hangul": "궁금하다",
+    "meaning": "to be curious"
+  },
+  {
+    "id": 293,
+    "no": 307,
+    "hangul": "금",
+    "meaning": "gold"
+  },
+  {
+    "id": 294,
+    "no": 268,
+    "hangul": "권하다",
+    "meaning": "to recommend, to offer"
+  },
+  {
+    "id": 295,
+    "no": 308,
+    "hangul": "금메달",
+    "meaning": "gold medal"
+  },
+  {
+    "id": 296,
+    "no": 269,
+    "hangul": "귀걸이",
+    "meaning": "earrings"
+  },
+  {
+    "id": 297,
+    "no": 309,
+    "hangul": "금액",
+    "meaning": "amount of money"
+  },
+  {
+    "id": 298,
+    "no": 270,
+    "hangul": "귀국",
+    "meaning": "return (to home country)"
+  },
+  {
+    "id": 299,
+    "no": 310,
+    "hangul": "금지",
+    "meaning": "ban"
+  },
+  {
+    "id": 300,
+    "no": 271,
+    "hangul": "귀신",
+    "meaning": "ghost"
+  },
+  {
+    "id": 301,
+    "no": 311,
+    "hangul": "급히",
+    "meaning": "suddenly"
+  },
+  {
+    "id": 302,
+    "no": 272,
+    "hangul": "귀중하다",
+    "meaning": "to be valuable"
+  },
+  {
+    "id": 303,
+    "no": 312,
+    "hangul": "긍정적",
+    "meaning": "being positive, being affirmative"
+  },
+  {
+    "id": 304,
+    "no": 273,
+    "hangul": "귀찮다",
+    "meaning": "to be bothersome, to be tedious"
+  },
+  {
+    "id": 305,
+    "no": 313,
+    "hangul": "기계",
+    "meaning": "machine"
+  },
+  {
+    "id": 306,
+    "no": 274,
+    "hangul": "귀하다",
+    "meaning": "to be noble, to be rare, to be fine"
+  },
+  {
+    "id": 307,
+    "no": 314,
+    "hangul": "기념",
+    "meaning": "commemoration"
+  },
+  {
+    "id": 308,
+    "no": 275,
+    "hangul": "규칙적",
+    "meaning": "being regular"
+  },
+  {
+    "id": 309,
+    "no": 315,
+    "hangul": "기념관",
+    "meaning": "memorial hall"
+  },
+  {
+    "id": 310,
+    "no": 276,
+    "hangul": "그네",
+    "meaning": "swing"
+  },
+  {
+    "id": 311,
+    "no": 316,
+    "hangul": "기념일",
+    "meaning": "anniversary"
+  },
+  {
+    "id": 312,
+    "no": 277,
+    "hangul": "그녀",
+    "meaning": "girlfriend"
+  },
+  {
+    "id": 313,
+    "no": 317,
+    "hangul": "기념품",
+    "meaning": "souvenir"
+  },
+  {
+    "id": 314,
+    "no": 278,
+    "hangul": "그늘",
+    "meaning": "shade"
+  },
+  {
+    "id": 315,
+    "no": 318,
+    "hangul": "기능",
+    "meaning": "function"
+  },
+  {
+    "id": 316,
+    "no": 279,
+    "hangul": "그대로",
+    "meaning": "as it is"
+  },
+  {
+    "id": 317,
+    "no": 319,
+    "hangul": "기다",
+    "meaning": "to crawl"
+  },
+  {
+    "id": 318,
+    "no": 280,
+    "hangul": "그래도",
+    "meaning": "(but) still"
+  },
+  {
+    "id": 319,
+    "no": 320,
+    "hangul": "기대",
+    "meaning": "expectation"
+  },
+  {
+    "id": 320,
+    "no": 321,
+    "hangul": "기도",
+    "meaning": "prayer"
+  },
+  {
+    "id": 321,
+    "no": 361,
+    "hangul": "깨우다",
+    "meaning": "to wake someone up"
+  },
+  {
+    "id": 322,
+    "no": 322,
+    "hangul": "기둥",
+    "meaning": "pillar"
+  },
+  {
+    "id": 323,
+    "no": 362,
+    "hangul": "깻잎",
+    "meaning": "sesame leaf"
+  },
+  {
+    "id": 324,
+    "no": 323,
+    "hangul": "기록",
+    "meaning": "record"
+  },
+  {
+    "id": 325,
+    "no": 363,
+    "hangul": "꺼지다",
+    "meaning": "to go out, to be extinguished"
+  },
+  {
+    "id": 326,
+    "no": 324,
+    "hangul": "기본",
+    "meaning": "basic"
+  },
+  {
+    "id": 327,
+    "no": 364,
+    "hangul": "껍질",
+    "meaning": "peel, skin"
+  },
+  {
+    "id": 328,
+    "no": 325,
+    "hangul": "기본적",
+    "meaning": "being fundamental, being basic"
+  },
+  {
+    "id": 329,
+    "no": 365,
+    "hangul": "꼬리",
+    "meaning": "tail"
+  },
+  {
+    "id": 330,
+    "no": 326,
+    "hangul": "기부",
+    "meaning": "donation"
+  },
+  {
+    "id": 331,
+    "no": 366,
+    "hangul": "꼬박꼬박",
+    "meaning": "properly (without failure), faithfully"
+  },
+  {
+    "id": 332,
+    "no": 327,
+    "hangul": "기쁨",
+    "meaning": "joy, happiness"
+  },
+  {
+    "id": 333,
+    "no": 367,
+    "hangul": "꼭대기",
+    "meaning": "summit, top"
+  },
+  {
+    "id": 334,
+    "no": 328,
+    "hangul": "기술",
+    "meaning": "skill, technique"
+  },
+  {
+    "id": 335,
+    "no": 368,
+    "hangul": "꼴찌",
+    "meaning": "the last place"
+  },
+  {
+    "id": 336,
+    "no": 329,
+    "hangul": "기술자",
+    "meaning": "technician"
+  },
+  {
+    "id": 337,
+    "no": 369,
+    "hangul": "꼼꼼하다",
+    "meaning": "to be meticulous"
+  },
+  {
+    "id": 338,
+    "no": 330,
+    "hangul": "기억",
+    "meaning": "memory"
+  },
+  {
+    "id": 339,
+    "no": 370,
+    "hangul": "꼼꼼히",
+    "meaning": "thoroughly, meticulously"
+  },
+  {
+    "id": 340,
+    "no": 331,
+    "hangul": "기억나다",
+    "meaning": "to remember, to recall"
+  },
+  {
+    "id": 341,
+    "no": 371,
+    "hangul": "꽃병",
+    "meaning": "flower vase"
+  },
+  {
+    "id": 342,
+    "no": 332,
+    "hangul": "기억력",
+    "meaning": "memory"
+  },
+  {
+    "id": 343,
+    "no": 372,
+    "hangul": "꽤",
+    "meaning": "quite"
+  },
+  {
+    "id": 344,
+    "no": 333,
+    "hangul": "기업",
+    "meaning": "company, corporation"
+  },
+  {
+    "id": 345,
+    "no": 373,
+    "hangul": "꾸미다",
+    "meaning": "to decorate"
+  },
+  {
+    "id": 346,
+    "no": 334,
+    "hangul": "기업인",
+    "meaning": "entrepreneur"
+  },
+  {
+    "id": 347,
+    "no": 374,
+    "hangul": "꾸준히",
+    "meaning": "steadily"
+  },
+  {
+    "id": 348,
+    "no": 335,
+    "hangul": "기운",
+    "meaning": "energy, qi"
+  },
+  {
+    "id": 349,
+    "no": 375,
+    "hangul": "꾸짖다",
+    "meaning": "to scold"
+  },
+  {
+    "id": 350,
+    "no": 336,
+    "hangul": "기울이다",
+    "meaning": "to tilt"
+  },
+  {
+    "id": 351,
+    "no": 376,
+    "hangul": "꿀",
+    "meaning": "honey"
+  },
+  {
+    "id": 352,
+    "no": 337,
+    "hangul": "기준",
+    "meaning": "standard, criteria"
+  },
+  {
+    "id": 353,
+    "no": 377,
+    "hangul": "꿀벌",
+    "meaning": "honey bee"
+  },
+  {
+    "id": 354,
+    "no": 338,
+    "hangul": "기차역",
+    "meaning": "train station"
+  },
+  {
+    "id": 355,
+    "no": 378,
+    "hangul": "꿈꾸다",
+    "meaning": "to dream"
+  },
+  {
+    "id": 356,
+    "no": 339,
+    "hangul": "기차표",
+    "meaning": "train ticket"
+  },
+  {
+    "id": 357,
+    "no": 379,
+    "hangul": "끈",
+    "meaning": "string"
+  },
+  {
+    "id": 358,
+    "no": 340,
+    "hangul": "기초",
+    "meaning": "basic, fundamental"
+  },
+  {
+    "id": 359,
+    "no": 380,
+    "hangul": "끊다",
+    "meaning": "to cut"
+  },
+  {
+    "id": 360,
+    "no": 341,
+    "hangul": "기행문",
+    "meaning": "travelogue, travel essay"
+  },
+  {
+    "id": 361,
+    "no": 381,
+    "hangul": "끊어지다",
+    "meaning": "to be cut"
+  },
+  {
+    "id": 362,
+    "no": 342,
+    "hangul": "기호",
+    "meaning": "symbol"
+  },
+  {
+    "id": 363,
+    "no": 382,
+    "hangul": "끊임없다",
+    "meaning": "to be incessant, to be unceasing"
+  },
+  {
+    "id": 364,
+    "no": 343,
+    "hangul": "기혼",
+    "meaning": "married"
+  },
+  {
+    "id": 365,
+    "no": 383,
+    "hangul": "끌다",
+    "meaning": "to pull"
+  },
+  {
+    "id": 366,
+    "no": 344,
+    "hangul": "기회",
+    "meaning": "opportunity, change"
+  },
+  {
+    "id": 367,
+    "no": 384,
+    "hangul": "끝내",
+    "meaning": "finally, eventually"
+  },
+  {
+    "id": 368,
+    "no": 345,
+    "hangul": "기후",
+    "meaning": "climate"
+  },
+  {
+    "id": 369,
+    "no": 385,
+    "hangul": "끼어들다",
+    "meaning": "to interrupt"
+  },
+  {
+    "id": 370,
+    "no": 346,
+    "hangul": "긴장감",
+    "meaning": "nervousness"
+  },
+  {
+    "id": 371,
+    "no": 386,
+    "hangul": "나날이",
+    "meaning": "day by day"
+  },
+  {
+    "id": 372,
+    "no": 347,
+    "hangul": "길가",
+    "meaning": "roadside"
+  },
+  {
+    "id": 373,
+    "no": 387,
+    "hangul": "나들이",
+    "meaning": "picnic"
+  },
+  {
+    "id": 374,
+    "no": 348,
+    "hangul": "길거리",
+    "meaning": "street"
+  },
+  {
+    "id": 375,
+    "no": 388,
+    "hangul": "나름",
+    "meaning": "depends on"
+  },
+  {
+    "id": 376,
+    "no": 349,
+    "hangul": "길이",
+    "meaning": "lenth"
+  },
+  {
+    "id": 377,
+    "no": 389,
+    "hangul": "나머지",
+    "meaning": "remainder, surplus"
+  },
+  {
+    "id": 378,
+    "no": 350,
+    "hangul": "김장",
+    "meaning": "a custom/event to make Kimchi in winter"
+  },
+  {
+    "id": 379,
+    "no": 390,
+    "hangul": "나물",
+    "meaning": "(Korean style) seasoned vegetables"
+  },
+  {
+    "id": 380,
+    "no": 351,
+    "hangul": "깊다",
+    "meaning": "to be deep"
+  },
+  {
+    "id": 381,
+    "no": 391,
+    "hangul": "나뭇잎",
+    "meaning": "leaf"
+  },
+  {
+    "id": 382,
+    "no": 352,
+    "hangul": "깊이",
+    "meaning": "depth"
+  },
+  {
+    "id": 383,
+    "no": 392,
+    "hangul": "나서다",
+    "meaning": "to go forward, to get involved"
+  },
+  {
+    "id": 384,
+    "no": 353,
+    "hangul": "까다",
+    "meaning": "to peel"
+  },
+  {
+    "id": 385,
+    "no": 393,
+    "hangul": "나아가다",
+    "meaning": "to move on"
+  },
+  {
+    "id": 386,
+    "no": 354,
+    "hangul": "까다롭다",
+    "meaning": "to have a high standard"
+  },
+  {
+    "id": 387,
+    "no": 394,
+    "hangul": "나아지다",
+    "meaning": "to improve"
+  },
+  {
+    "id": 388,
+    "no": 355,
+    "hangul": "깔다",
+    "meaning": "to lay"
+  },
+  {
+    "id": 389,
+    "no": 395,
+    "hangul": "나타내다",
+    "meaning": "to display, to reveal"
+  },
+  {
+    "id": 390,
+    "no": 356,
+    "hangul": "깜빡",
+    "meaning": "forgetfully, with a blink"
+  },
+  {
+    "id": 391,
+    "no": 396,
+    "hangul": "낙서",
+    "meaning": "doodle"
+  },
+  {
+    "id": 392,
+    "no": 357,
+    "hangul": "깨끗이",
+    "meaning": "clearly"
+  },
+  {
+    "id": 393,
+    "no": 397,
+    "hangul": "낙엽",
+    "meaning": "fallen leaves"
+  },
+  {
+    "id": 394,
+    "no": 358,
+    "hangul": "깨닫다",
+    "meaning": "to realize"
+  },
+  {
+    "id": 395,
+    "no": 398,
+    "hangul": "난로",
+    "meaning": "stove, fireplace"
+  },
+  {
+    "id": 396,
+    "no": 359,
+    "hangul": "깨뜨리다",
+    "meaning": "to break"
+  },
+  {
+    "id": 397,
+    "no": 399,
+    "hangul": "난방",
+    "meaning": "heater"
+  },
+  {
+    "id": 398,
+    "no": 360,
+    "hangul": "깨소금",
+    "meaning": "sesame salt"
+  },
+  {
+    "id": 399,
+    "no": 400,
+    "hangul": "날개",
+    "meaning": "wings"
+  },
+  {
+    "id": 400,
+    "no": 401,
+    "hangul": "날다",
+    "meaning": "to fly"
+  },
+  {
+    "id": 401,
+    "no": 441,
+    "hangul": "노동자",
+    "meaning": "laborer"
+  },
+  {
+    "id": 402,
+    "no": 402,
+    "hangul": "날로",
+    "meaning": "day by day"
+  },
+  {
+    "id": 403,
+    "no": 442,
+    "hangul": "노력",
+    "meaning": "effort"
+  },
+  {
+    "id": 404,
+    "no": 403,
+    "hangul": "날리다",
+    "meaning": "to blow away"
+  },
+  {
+    "id": 405,
+    "no": 443,
+    "hangul": "노선",
+    "meaning": "route, line"
+  },
+  {
+    "id": 406,
+    "no": 404,
+    "hangul": "날씬하다",
+    "meaning": "skinny"
+  },
+  {
+    "id": 407,
+    "no": 444,
+    "hangul": "노약자",
+    "meaning": "elderly and physically handicapped"
+  },
+  {
+    "id": 408,
+    "no": 405,
+    "hangul": "날아가다",
+    "meaning": "to fly away"
+  },
+  {
+    "id": 409,
+    "no": 445,
+    "hangul": "노인",
+    "meaning": "elderly"
+  },
+  {
+    "id": 410,
+    "no": 406,
+    "hangul": "날아다니다",
+    "meaning": "to fly around"
+  },
+  {
+    "id": 411,
+    "no": 446,
+    "hangul": "노처녀",
+    "meaning": "an unmarried and old woman"
+  },
+  {
+    "id": 412,
+    "no": 407,
+    "hangul": "날아오다",
+    "meaning": "to fly in"
+  },
+  {
+    "id": 413,
+    "no": 447,
+    "hangul": "노총각",
+    "meaning": "unmarried and old man"
+  },
+  {
+    "id": 414,
+    "no": 408,
+    "hangul": "날아오르다",
+    "meaning": "to fly up, to soar"
+  },
+  {
+    "id": 415,
+    "no": 448,
+    "hangul": "노트북",
+    "meaning": "laptop"
+  },
+  {
+    "id": 416,
+    "no": 409,
+    "hangul": "낡다",
+    "meaning": "to be old"
+  },
+  {
+    "id": 417,
+    "no": 449,
+    "hangul": "녹다",
+    "meaning": "to be melt"
+  },
+  {
+    "id": 418,
+    "no": 410,
+    "hangul": "남녀노소",
+    "meaning": "men and women of all ages"
+  },
+  {
+    "id": 419,
+    "no": 450,
+    "hangul": "녹음",
+    "meaning": "voice recording"
+  },
+  {
+    "id": 420,
+    "no": 411,
+    "hangul": "남녀평등",
+    "meaning": "gender equality"
+  },
+  {
+    "id": 421,
+    "no": 451,
+    "hangul": "녹음기",
+    "meaning": "voice recorder"
+  },
+  {
+    "id": 422,
+    "no": 412,
+    "hangul": "남다",
+    "meaning": "to remain, to be left"
+  },
+  {
+    "id": 423,
+    "no": 452,
+    "hangul": "논문",
+    "meaning": "(academic) paper"
+  },
+  {
+    "id": 424,
+    "no": 413,
+    "hangul": "남부",
+    "meaning": "southern"
+  },
+  {
+    "id": 425,
+    "no": 453,
+    "hangul": "놀랍다",
+    "meaning": "to be amazing, to be remarkable"
+  },
+  {
+    "id": 426,
+    "no": 414,
+    "hangul": "남성",
+    "meaning": "male"
+  },
+  {
+    "id": 427,
+    "no": 454,
+    "hangul": "놀리다",
+    "meaning": "to make fun of"
+  },
+  {
+    "id": 428,
+    "no": 415,
+    "hangul": "남성복",
+    "meaning": "men's clothing"
+  },
+  {
+    "id": 429,
+    "no": 455,
+    "hangul": "놀이",
+    "meaning": "play, game"
+  },
+  {
+    "id": 430,
+    "no": 416,
+    "hangul": "낫다",
+    "meaning": "to heal"
+  },
+  {
+    "id": 431,
+    "no": 456,
+    "hangul": "놀이터",
+    "meaning": "playground"
+  },
+  {
+    "id": 432,
+    "no": 417,
+    "hangul": "낭비",
+    "meaning": "waste (of use)"
+  },
+  {
+    "id": 433,
+    "no": 457,
+    "hangul": "놈",
+    "meaning": "guy"
+  },
+  {
+    "id": 434,
+    "no": 418,
+    "hangul": "낯설다",
+    "meaning": "to be unfamiliar"
+  },
+  {
+    "id": 435,
+    "no": 458,
+    "hangul": "농담",
+    "meaning": "joke"
+  },
+  {
+    "id": 436,
+    "no": 419,
+    "hangul": "낳다",
+    "meaning": "to give birth"
+  },
+  {
+    "id": 437,
+    "no": 459,
+    "hangul": "농민",
+    "meaning": "farmer"
+  },
+  {
+    "id": 438,
+    "no": 420,
+    "hangul": "내내",
+    "meaning": "always"
+  },
+  {
+    "id": 439,
+    "no": 460,
+    "hangul": "농부",
+    "meaning": "farmer"
+  },
+  {
+    "id": 440,
+    "no": 421,
+    "hangul": "내려다보다",
+    "meaning": "to look down"
+  },
+  {
+    "id": 441,
+    "no": 461,
+    "hangul": "농사",
+    "meaning": "agriculture"
+  },
+  {
+    "id": 442,
+    "no": 422,
+    "hangul": "내복",
+    "meaning": "underwear"
+  },
+  {
+    "id": 443,
+    "no": 462,
+    "hangul": "농약",
+    "meaning": "pesticides"
+  },
+  {
+    "id": 444,
+    "no": 423,
+    "hangul": "내부",
+    "meaning": "inside, internal"
+  },
+  {
+    "id": 445,
+    "no": 463,
+    "hangul": "농작물",
+    "meaning": "crops"
+  },
+  {
+    "id": 446,
+    "no": 424,
+    "hangul": "내성적",
+    "meaning": "being shy"
+  },
+  {
+    "id": 447,
+    "no": 464,
+    "hangul": "농촌",
+    "meaning": "rural"
+  },
+  {
+    "id": 448,
+    "no": 425,
+    "hangul": "내용물",
+    "meaning": "content (of a container)"
+  },
+  {
+    "id": 449,
+    "no": 465,
+    "hangul": "높이",
+    "meaning": "height"
+  },
+  {
+    "id": 450,
+    "no": 426,
+    "hangul": "내쫓다",
+    "meaning": "to kick out"
+  },
+  {
+    "id": 451,
+    "no": 466,
+    "hangul": "높이다",
+    "meaning": "to increase"
+  },
+  {
+    "id": 452,
+    "no": 427,
+    "hangul": "냇가",
+    "meaning": "stream, lake"
+  },
+  {
+    "id": 453,
+    "no": 467,
+    "hangul": "높임말",
+    "meaning": "honorifics"
+  },
+  {
+    "id": 454,
+    "no": 428,
+    "hangul": "냉방병",
+    "meaning": "excessive air conditioning syndrome"
+  },
+  {
+    "id": 455,
+    "no": 468,
+    "hangul": "놓이다",
+    "meaning": "to be placed"
+  },
+  {
+    "id": 456,
+    "no": 429,
+    "hangul": "너그럽다",
+    "meaning": "to be generous"
+  },
+  {
+    "id": 457,
+    "no": 469,
+    "hangul": "놓치다",
+    "meaning": "to miss, to lose"
+  },
+  {
+    "id": 458,
+    "no": 430,
+    "hangul": "너무나",
+    "meaning": "too~, very"
+  },
+  {
+    "id": 459,
+    "no": 470,
+    "hangul": "눈길",
+    "meaning": "glance, attention"
+  },
+  {
+    "id": 460,
+    "no": 431,
+    "hangul": "넉넉하다",
+    "meaning": "to be enough, to be rich"
+  },
+  {
+    "id": 461,
+    "no": 471,
+    "hangul": "눈높이",
+    "meaning": "eye-level"
+  },
+  {
+    "id": 462,
+    "no": 432,
+    "hangul": "널다",
+    "meaning": "to dry, to expose to the air"
+  },
+  {
+    "id": 463,
+    "no": 472,
+    "hangul": "눈병",
+    "meaning": "eye disease"
+  },
+  {
+    "id": 464,
+    "no": 433,
+    "hangul": "넓히다",
+    "meaning": "to widen"
+  },
+  {
+    "id": 465,
+    "no": 473,
+    "hangul": "눈보라",
+    "meaning": "snowstorm"
+  },
+  {
+    "id": 466,
+    "no": 434,
+    "hangul": "넘기다",
+    "meaning": "to hand over"
+  },
+  {
+    "id": 467,
+    "no": 474,
+    "hangul": "눈사태",
+    "meaning": "avalanche"
+  },
+  {
+    "id": 468,
+    "no": 435,
+    "hangul": "넘어가다",
+    "meaning": "to move on to"
+  },
+  {
+    "id": 469,
+    "no": 475,
+    "hangul": "눈썹",
+    "meaning": "eyebrow"
+  },
+  {
+    "id": 470,
+    "no": 436,
+    "hangul": "넘치다",
+    "meaning": "to overflow"
+  },
+  {
+    "id": 471,
+    "no": 476,
+    "hangul": "눈치",
+    "meaning": "wits, sense"
+  },
+  {
+    "id": 472,
+    "no": 437,
+    "hangul": "네모나다",
+    "meaning": "to be squared"
+  },
+  {
+    "id": 473,
+    "no": 477,
+    "hangul": "눌러쓰다",
+    "meaning": "to wear deeply"
+  },
+  {
+    "id": 474,
+    "no": 438,
+    "hangul": "네트워크",
+    "meaning": "network"
+  },
+  {
+    "id": 475,
+    "no": 478,
+    "hangul": "느긋하다",
+    "meaning": "to be lazy, to be laid back"
+  },
+  {
+    "id": 476,
+    "no": 439,
+    "hangul": "년대",
+    "meaning": "age"
+  },
+  {
+    "id": 477,
+    "no": 479,
+    "hangul": "느끼하다",
+    "meaning": "to be greasy"
+  },
+  {
+    "id": 478,
+    "no": 440,
+    "hangul": "노동",
+    "meaning": "labor"
+  },
+  {
+    "id": 479,
+    "no": 480,
+    "hangul": "늘리다",
+    "meaning": "to increase (the number or volume)"
+  },
+  {
+    "id": 480,
+    "no": 481,
+    "hangul": "늘어나다",
+    "meaning": "to stretch, to increase"
+  },
+  {
+    "id": 481,
+    "no": 521,
+    "hangul": "담다",
+    "meaning": "to put in (a container)"
+  },
+  {
+    "id": 482,
+    "no": 482,
+    "hangul": "늘어서다",
+    "meaning": "to line up"
+  },
+  {
+    "id": 483,
+    "no": 522,
+    "hangul": "담당",
+    "meaning": "being in charge"
+  },
+  {
+    "id": 484,
+    "no": 483,
+    "hangul": "늙다",
+    "meaning": "to get old"
+  },
+  {
+    "id": 485,
+    "no": 523,
+    "hangul": "담당자",
+    "meaning": "person in charge"
+  },
+  {
+    "id": 486,
+    "no": 484,
+    "hangul": "늦추다",
+    "meaning": "to delay"
+  },
+  {
+    "id": 487,
+    "no": 524,
+    "hangul": "담백하다",
+    "meaning": "to be pure, to be innocent"
+  },
+  {
+    "id": 488,
+    "no": 485,
+    "hangul": "다가오다",
+    "meaning": "to approach, to come closer"
+  },
+  {
+    "id": 489,
+    "no": 525,
+    "hangul": "담뱃불",
+    "meaning": "tobacco fire"
+  },
+  {
+    "id": 490,
+    "no": 486,
+    "hangul": "다녀가다",
+    "meaning": "to visit"
+  },
+  {
+    "id": 491,
+    "no": 526,
+    "hangul": "담임",
+    "meaning": "homeroom teacher"
+  },
+  {
+    "id": 492,
+    "no": 487,
+    "hangul": "다람쥐",
+    "meaning": "squirrel"
+  },
+  {
+    "id": 493,
+    "no": 527,
+    "hangul": "답",
+    "meaning": "answer"
+  },
+  {
+    "id": 494,
+    "no": 488,
+    "hangul": "다루다",
+    "meaning": "to deal with"
+  },
+  {
+    "id": 495,
+    "no": 528,
+    "hangul": "답글",
+    "meaning": "reply"
+  },
+  {
+    "id": 496,
+    "no": 489,
+    "hangul": "다림질",
+    "meaning": "ironing"
+  },
+  {
+    "id": 497,
+    "no": 529,
+    "hangul": "답답하다",
+    "meaning": "to be stuffy, to be suffocating"
+  },
+  {
+    "id": 498,
+    "no": 490,
+    "hangul": "다수",
+    "meaning": "many"
+  },
+  {
+    "id": 499,
+    "no": 530,
+    "hangul": "답변",
+    "meaning": "answer"
+  },
+  {
+    "id": 500,
+    "no": 491,
+    "hangul": "다양하다",
+    "meaning": "to be varied"
+  }
+]

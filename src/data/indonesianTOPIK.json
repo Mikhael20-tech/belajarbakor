@@ -1,0 +1,1062 @@
+[
+  {
+    "id": 1,
+    "hangul": "상승하다",
+    "meaningId": "meningkat; naik",
+    "examples": [
+      {
+        "ko": "최근에 물가가 계속 상승하여 장을 보는 것이 부담스러워졌다",
+        "id": "Aknir-akhir ini tingkat harga terus-menerus naik, sehingga"
+      },
+      {
+        "ko": "매출이 상승하면서 고객들의 문의도 많아졌다",
+        "id": "Seiring peningkatan omzet, inquiries dari pelanggan juga manjadi"
+      },
+      {
+        "ko": "코로나 이후 관광객 수가 하락하여 지역 상권이 어려움을 겪는다",
+        "id": "Setelah COVID, jumlah turis menurun sehingga bisnis lokal mengalami"
+      }
+    ],
+    "page": 9
+  },
+  {
+    "id": 2,
+    "hangul": "회복하다",
+    "meaningId": "pulih",
+    "examples": [
+      {
+        "ko": "수술 후 일상생활로 회복하기 위해 물리치료를 받았다",
+        "id": "Saya menjalani fisioterapi untuk pulih ke kehidupan sehari-hari"
+      },
+      {
+        "ko": "정부는 경기 침체로부터 경제 성장을 회복하기 위한 정책을 발표했다",
+        "id": "Pemerintah mengumumkan kebijakan untuk memulihkan pertumbuhan"
+      },
+      {
+        "ko": "스트레스가 쌓이면 건강이 악화될 수 있다",
+        "id": "Jika stres menumpuk, kesehatan bisa memburuk"
+      }
+    ],
+    "page": 10
+  },
+  {
+    "id": 3,
+    "hangul": "완화하다",
+    "meaningId": "meringankan; melonggarkan",
+    "examples": [
+      {
+        "ko": "이 활동은 불안감을 완화하는 데 도움이 된다",
+        "id": "Kegiatan ini membantu dalam meredakan kecemasan"
+      },
+      {
+        "ko": "활발한 국제 무역을 위해 정부는 수출입 관련 규제를 완화하였다",
+        "id": "Untuk perdagangan internasional yang aktif, pemerintah telah"
+      },
+      {
+        "ko": "이 제품을 최근에 미국에서 수입하였다",
+        "id": "Kami telah mengimpor produk ini dari Amerika Serikat baru-baru ini"
+      }
+    ],
+    "page": 13
+  },
+  {
+    "id": 4,
+    "hangul": "투자하다",
+    "meaningId": "berinvestasi",
+    "examples": [
+      {
+        "ko": "투자할 때는 전문가의 조언을 듣는 것이 도움이 된다",
+        "id": "Saat berinvestasi, mendengarkan saran ahli akan sangat membantu"
+      },
+      {
+        "ko": "이 프로젝트는 수익이 안정적이므로 많은 기업들이 투자했다",
+        "id": "Karena proyek ini memberikan keuntungan yang stabil, banyak"
+      },
+      {
+        "ko": "우리 부서는 인공지능 전문가 두 명을 채용할 예정이다",
+        "id": "Departemen kami berencana untuk merekrut dua ahli kecerdasan"
+      }
+    ],
+    "page": 14
+  },
+  {
+    "id": 5,
+    "hangul": "운영하다",
+    "meaningId": "mengelola; menjalankan",
+    "examples": [
+      {
+        "ko": "우리 팀은 회사의 공식 SNS 계정을 운영하고 있다",
+        "id": "Tim kami sedang mengelola akun SNS resmi perusahaan"
+      },
+      {
+        "ko": "그 분이 운영하는 작은 카페가 5년간 꾸준히 성장하고 있다",
+        "id": "Kafe kecil yang dioperasikan olehnya terus berkembang selama lima"
+      },
+      {
+        "ko": "시장의 최신 트렌드를 분석한 후 보고서를 작성했다",
+        "id": "Setelah menganalisis tren pasar terbaru, kami menyusun laporan"
+      }
+    ],
+    "page": 17
+  },
+  {
+    "id": 6,
+    "hangul": "부담하다",
+    "meaningId": "menanggung; memikul biaya",
+    "examples": [
+      {
+        "ko": "회사가 직원들의 교통비를 일부 부담해 주었다",
+        "id": "Perusahaan menanggung sebagian biaya transportasi karyawan"
+      },
+      {
+        "ko": "사회적 책임을 부담하는 기업이 소비자에게 신뢰를 얻는다",
+        "id": "Perusahaan yang menanggung tanggung jawab sosial akan"
+      },
+      {
+        "ko": "그는 공정하고 투명한 절차로 채용을 진행하고 있다",
+        "id": "Dia melakukan rekrutmen dengan prosedur yang adil dan"
+      }
+    ],
+    "page": 18
+  },
+  {
+    "id": 7,
+    "hangul": "과도하다",
+    "meaningId": "berlebihan; terlalu banyak",
+    "examples": [
+      {
+        "ko": "과도하게 소비하지 않고 저축하는 습관이 중요하다",
+        "id": "Penting untuk memiliki kebiasaan menabung dan tidak mengonsumsi"
+      },
+      {
+        "ko": "업무량이 과도하여 휴식을 제대로 취하지 못했다",
+        "id": "Kami tidak bisa beristirahat dengan baik karena beban kerja yang"
+      },
+      {
+        "ko": "청년 실업률이 5년 사이에 심각하게 늘어났다",
+        "id": "Tingkat pengangguran muda meningkat secara parah dalam 5"
+      }
+    ],
+    "page": 23
+  },
+  {
+    "id": 8,
+    "hangul": "늘어나다",
+    "meaningId": "bertambah; meningkat",
+    "examples": [
+      {
+        "ko": "작년에 비해 올해 매출이 30% 늘어났다",
+        "id": "Penjualan tahun ini telah meningkat 30% dibandingkan tahun lalu"
+      },
+      {
+        "ko": "늘어난 고객 문의 때문에 인력을 급하게 채용하고 있다",
+        "id": "Kami merekrut tenaga kerja secara tergesa-gesa karena"
+      },
+      {
+        "ko": "기온이 떨어지면서 겨울 의류 소비가 늘어나고 있다",
+        "id": "Konsumsi pakaian musim dingin meningkat seiring menurunnya"
+      }
+    ],
+    "page": 24
+  },
+  {
+    "id": 9,
+    "hangul": "치열하다",
+    "meaningId": "ketat; sengit",
+    "examples": [
+      {
+        "ko": "명문 대학교에 들어가기 위한 경쟁이 매우 치열해졌다",
+        "id": "Persaingan untuk masuk ke universitas bergengsi menjadi sangat"
+      },
+      {
+        "ko": "그는 치열한 경쟁을 뚫고 원하던 대기업에 입사했다",
+        "id": "Dia berhasil masuk ke perusahaan besar yang diinginkannya setelah"
+      },
+      {
+        "ko": "교통사고로 인해 도로가 정체되어 약속에 늦었다",
+        "id": "Saya terlambat ke janji temu karena jalan macet (terhenti)"
+      }
+    ],
+    "page": 27
+  },
+  {
+    "id": 10,
+    "hangul": "배분하다",
+    "meaningId": "membagikan;",
+    "examples": [
+      {
+        "ko": "시간을 효율적으로 배분하면 업무의 질이 높아질 것이다",
+        "id": "Kalau (kita) mengalokasikan waktu secara efisien, kualitas"
+      },
+      {
+        "ko": "정부는 예산을 합리적인 기준에 따라 공정하게 배분한다",
+        "id": "Pemerintah mengalokasikan anggaran secara adil berdasarkan"
+      },
+      {
+        "ko": "문제 해결을 위해 합리적인 방안을 제시해야 한다",
+        "id": "Kami harus mengajukan solusi yang rasional untuk mengatasi"
+      }
+    ],
+    "page": 28
+  },
+  {
+    "id": 11,
+    "hangul": "진출하다",
+    "meaningId": "memasuki; memperluas",
+    "examples": [
+      {
+        "ko": "우리 회사는 내년에 미국으로 진출할 계획이다",
+        "id": "Perusahaan kami berencana memperluas (ber-ekspansi) ke Amerika"
+      },
+      {
+        "ko": "그는 마침내 그동안 꿈꾸던 영화계에 진출하였다",
+        "id": "Dia akhirnya memasuki industri film yang selama ini diimpikannya"
+      },
+      {
+        "ko": "고객의 요청에 맞춰 제품의 색상을 바꾸었다",
+        "id": "Kami mengubah warna produk sesuai dengan permintaan"
+      }
+    ],
+    "page": 31
+  },
+  {
+    "id": 12,
+    "hangul": "긍정적이다",
+    "meaningId": "positif; optimis",
+    "examples": [
+      {
+        "ko": "그의 긍정적인 태도가 팀 분위기를 밝게 만든다",
+        "id": "Sikapnya yang positif membuat suasana tim menjadi ceria"
+      },
+      {
+        "ko": "긍정적인 평가를 받기 위해 최선을 다하고 있다",
+        "id": "Kami berusaha sebaik mungkin untuk mendapatkan penilaian yang"
+      },
+      {
+        "ko": "최근 우리 회사에 대한 부정적인 소문이 돌고 있다",
+        "id": "Baru-baru ini, rumor yang negatif tentang perusahaan kami"
+      }
+    ],
+    "page": 32
+  },
+  {
+    "id": 13,
+    "hangul": "시도하다",
+    "meaningId": "mencoba; berusaha",
+    "examples": [
+      {
+        "ko": "신제품 개발을 위해 다양한 아이디어를 시도하고 있다",
+        "id": "Kami sedang mencoba berbagai ide untuk pengembangan produk baru"
+      },
+      {
+        "ko": "실패를 두려워하지 않고 지속적으로 시도하는 것이 좋다",
+        "id": "Sebaiknya mencoba terus-menerus tanpa takut gagal"
+      },
+      {
+        "ko": "그는 꼼꼼한 성격 덕분에 실수를 거의 하지 않는다",
+        "id": "Berkat sifatnya yang teliti, dia hampir tidak melakukan"
+      }
+    ],
+    "page": 37
+  },
+  {
+    "id": 14,
+    "hangul": "혼잡하다",
+    "meaningId": "padat; penuh sesak",
+    "examples": [
+      {
+        "ko": "출퇴근 시간에는 도로가 차량으로 혼잡하다",
+        "id": "Pada jam sibuk, jalanan macet oleh kendaraan"
+      },
+      {
+        "ko": "차장이 혼잡하므로 대중교통을 이용하는 것이 편하다",
+        "id": "Karena jalanan macet, lebih nyaman menggunakan transportasi"
+      },
+      {
+        "ko": "그가 책을 열심히 홍보한 덕분에 판매량이 늘었다",
+        "id": "Berkat dia mempromosikan buku itu dengan keras, penjualannya"
+      }
+    ],
+    "page": 38
+  },
+  {
+    "id": 15,
+    "hangul": "특이하다",
+    "meaningId": "unik; khas",
+    "examples": [
+      {
+        "ko": "그 디자이너는 옷을 입는 스타일이 매우 특이하다",
+        "id": "Gaya berpakaian desainer itu sangat unik"
+      },
+      {
+        "ko": "이번 신제품은 디자인이 특이하여 눈길을 끌었다",
+        "id": "Produk baru ini menarik perhatian karena desainnya unik"
+      },
+      {
+        "ko": "시험을 거치지 않고는 대학교를 졸업할 수 없다",
+        "id": "(Kita) tidak bisa lulus dari universitas tanpa melalui ujian"
+      }
+    ],
+    "page": 41
+  },
+  {
+    "id": 16,
+    "hangul": "밝혀지다",
+    "meaningId": "terungkap; diketahui",
+    "examples": [
+      {
+        "ko": "진실이 밝혀지자 모든 오해가 풀렸다",
+        "id": "Semua kesalahpahaman langsung terpecahkan (hilang) setelah"
+      },
+      {
+        "ko": "그 사고의 정확한 원인은 아직 밝혀지지 않았다",
+        "id": "Penyebab pasti kecelakaan itu masih belum terungkap"
+      },
+      {
+        "ko": "팀장님은 이 보고서를 오늘까지 끝내라고 지시하셨다",
+        "id": "Manajer tim menginstruksikan (bahwa) laporan ini harus selesai"
+      }
+    ],
+    "page": 42
+  },
+  {
+    "id": 17,
+    "hangul": "동일하다",
+    "meaningId": "sama; identik",
+    "examples": [
+      {
+        "ko": "두 제품의 디자인은 동일하지만 성능은 다르다",
+        "id": "Desain kedua produk sama, tetapi kinerjanya berbeda"
+      },
+      {
+        "ko": "이전 사례와 동일한 방식으로 문제를 처리할 수 있다",
+        "id": "Masalah dapat ditangani dengan cara yang sama seperti kasus"
+      },
+      {
+        "ko": "유사한 관심사를 가진 사람들끼리 동호회를 만들었다",
+        "id": "Orang-orang dengan minat yang serupa membentuk perkumpulan"
+      }
+    ],
+    "page": 45
+  },
+  {
+    "id": 18,
+    "hangul": "[091]",
+    "meaningId": "그는 과정보다 결과를 중시하는 경향이 있다",
+    "examples": [
+      {
+        "ko": "서로 중시하는 부분을 공유해야 오해가 안 생긴다",
+        "id": "Kami harus berbagi bagian yang diutamakan agar tidak terjadi"
+      },
+      {
+        "ko": "인공지능이 인간의 단순 노동을 대체할 수 있다",
+        "id": "AI dapat menggantikan pekerjaan manual manusia"
+      },
+      {
+        "ko": "그는 설탕을 대체하는 천연 감미료를 개발하였다",
+        "id": "Dia mengembangkan pemanis alami yang menggantikan gula"
+      }
+    ],
+    "page": 51
+  },
+  {
+    "id": 19,
+    "hangul": "조절하다",
+    "meaningId": "mengatur; menyesuaikan",
+    "examples": [
+      {
+        "ko": "운전자는 속도를 조절하며 안전 거리를 유지했다",
+        "id": "Pengemudi mengendalikan kecepatan sambil menjaga jarak aman"
+      },
+      {
+        "ko": "우리는 불필요한 비용을 조절할 필요가 있다",
+        "id": "Kami perlu mengendalikan biaya yang tidak perlu"
+      },
+      {
+        "ko": "한국의 기술력은 다른 나라에 비해 빠르게 발전하였다",
+        "id": "Kemampuan teknologi Korea telah berkembang pesat dibandingkan"
+      }
+    ],
+    "page": 52
+  },
+  {
+    "id": 20,
+    "hangul": "[101]",
+    "meaningId": "내 의견에 동의하는 사람보다 반대하는 사람이 많다",
+    "examples": [
+      {
+        "ko": "대중들은 정부의 새로운 정책에 대해 반대하였다",
+        "id": "Publik telah menentang kebijakan baru pemerintah"
+      },
+      {
+        "ko": "전문가들은 내년 경제 성장을 긍정적으로 예측한다",
+        "id": "Para ahli memprediksi pertumbuhan ekonomi tahun depan"
+      },
+      {
+        "ko": "예측하지 못했던 변수가 나타나 계획을 수정하였다",
+        "id": "Variabel yang tidak (kami) perkirakan muncul, sehingga kami"
+      }
+    ],
+    "page": 55
+  },
+  {
+    "id": 21,
+    "hangul": "발견되다",
+    "meaningId": "ditemukan; terdeteksi",
+    "examples": [
+      {
+        "ko": "그의 논문에서 심각한 오류가 발견되었다",
+        "id": "Telah ditemukan kesalahan serius dalam tesisnya"
+      },
+      {
+        "ko": "새로운 화학 물질이 실험 과정에서 발견되었다",
+        "id": "Bahan kimia baru ditemukan selama proses percobaan"
+      },
+      {
+        "ko": "유사한 문제가 발생하지 않도록 원인을 찾아야 한다",
+        "id": "Kami harus mencari penyebab agar masalah serupa tidak terjadi"
+      }
+    ],
+    "page": 56
+  },
+  {
+    "id": 22,
+    "hangul": "[111]",
+    "meaningId": "국가 발전을 위해 새로운 경제 정책을 수립해야 한다",
+    "examples": [
+      {
+        "ko": "엄격한 기준을 수립해야만 오류를 최소화할 수 있다",
+        "id": "kami dapat meminimalkan kesalahan hanya jika (kami) menetapkan"
+      },
+      {
+        "ko": "책을 대여할 때는 신분증을 반드시 제시해야 한다",
+        "id": "Saat meminjam buku, Anda harus menunjukkan kartu identitas"
+      },
+      {
+        "ko": "최근에 자전거를 대여하는 사람들이 많아졌다",
+        "id": "Jumlah orang yang meminjam sepeda semakin banyak akhir-akhir ini"
+      }
+    ],
+    "page": 59
+  },
+  {
+    "id": 23,
+    "hangul": "발표하다",
+    "meaningId": "mengumumkan;",
+    "examples": [
+      {
+        "ko": "다음 주에 새로운 연구 결과를 발표할 예정이다",
+        "id": "Kami berencana mempresentasikan hasil penelitian baru minggu"
+      },
+      {
+        "ko": "중요한 사업 계획을 발표하기 위해 PPT를 준비했다",
+        "id": "Kami menyiapkan PPT untuk mengumumkan rencana bisnis penting"
+      },
+      {
+        "ko": "최종 합격자 명단은 이번 주 안에 발표될 예정이다",
+        "id": "Daftar peserta yang lulus final akan diumumkan minggu ini"
+      }
+    ],
+    "page": 60
+  },
+  {
+    "id": 24,
+    "hangul": "경제",
+    "meaningId": "ekonomi",
+    "examples": [
+      {
+        "ko": "오른 물가로 인해 나라의 경제가 안 좋다는 뉴스가 나오고 있다",
+        "id": "Berita bahwa ekonomi negara tidak baik karena kenaikan harga"
+      },
+      {
+        "ko": "정부는 나라 경제를 발전시키기 위해 새로운 정책을 발표했다",
+        "id": "Pemerintah telah mengumumkan kebijakan baru untuk"
+      },
+      {
+        "ko": "적어진 일자리 때문에 실업 상태인 사람들이 많아졌다",
+        "id": "Semakin banyak orang dalam kondisi menganggur karena berkurangnya"
+      }
+    ],
+    "page": 66
+  },
+  {
+    "id": 25,
+    "hangul": "최저",
+    "meaningId": "paling rendah; minimum",
+    "examples": [
+      {
+        "ko": "이번 시험에 합격하기 위한 최저 점수는 60점이다",
+        "id": "Nilai minimum untuk lulus ujian ini adalah 60 poin"
+      },
+      {
+        "ko": "한국의 최저 시급은 전년 대비 3% 오른 것으로 나타났다",
+        "id": "Upah per jam minimum Korea naik 3% dibandingkan tahun lalu"
+      },
+      {
+        "ko": "그는 반에서 최고의 성적을 받아 모두의 축하를 받았다",
+        "id": "Dia mendapatkan nilai tertinggi di kelas dan menerima ucapan"
+      }
+    ],
+    "page": 67
+  },
+  {
+    "id": 26,
+    "hangul": "이익",
+    "meaningId": "keuntungan; laba",
+    "examples": [
+      {
+        "ko": "기업은 물건을 팔아서 남은 돈, 즉 이익을 늘려야 한다",
+        "id": "Perusahaan harus meningkatkan uang yang tersisa dari penjualan"
+      },
+      {
+        "ko": "개인의 이익만 추구하면 사회 전체의 공익을 해칠 수 있다",
+        "id": "Mengejar keuntungan individu semata dapat merugikan kepentingan"
+      },
+      {
+        "ko": "물가가 오르면 화폐의 가치가 떨어지는 현상이 발생한다",
+        "id": "Jika harga-harga naik, terjadi fenomena penurunan nilai mata"
+      }
+    ],
+    "page": 70
+  },
+  {
+    "id": 27,
+    "hangul": "무역",
+    "meaningId": "perdagangan",
+    "examples": [
+      {
+        "ko": "무역을 통해서 국내에서 만들지 못하는 물건도 쉽게 살 수 있다",
+        "id": "Melalui perdagangan, kita bisa mudah membeli barang yang tidak"
+      },
+      {
+        "ko": "환율 불안정은 무역 침체를 초래하는 주요 원인으로 보인다",
+        "id": "Ketidakstabilan kurs mata uang tampaknya menjadi penyebab utama"
+      },
+      {
+        "ko": "그 사람은 국제 학교를 다니기 때문에 영어를 잘 한다",
+        "id": "Dia fasih berbahasa Inggris karena bersekolah di sekolah"
+      }
+    ],
+    "page": 71
+  },
+  {
+    "id": 28,
+    "hangul": "소비",
+    "meaningId": "konsumsi",
+    "examples": [
+      {
+        "ko": "우리는 불필요한 소비를 줄여야 돈을 아낄 수 있다",
+        "id": "Kita bisa berhemat hanya jika mengurangi konsumsi yang tidak perlu"
+      },
+      {
+        "ko": "과도한 소비는 미래를 위한 저축 기회를 박탈할 수 있다",
+        "id": "Konsumsi yang berlebihan dapat menghilangkan peluang untuk"
+      },
+      {
+        "ko": "제품을 만들 때 소비자의 의견을 고려해야 한다",
+        "id": "(Kita) harus mempertimbangkan pendapat konsumen saat"
+      }
+    ],
+    "page": 74
+  },
+  {
+    "id": 29,
+    "hangul": "매출",
+    "meaningId": "penjualan ; omset",
+    "examples": [
+      {
+        "ko": "새로운 마케팅 전략 덕분에 이번 달 매출이 크게 증가하였다",
+        "id": "Penjualan bulan ini meningkat drastis berkat strategi pemasaran"
+      },
+      {
+        "ko": "신제품 출시 후 한 달 만에 매출 100억 원을 달성하였다",
+        "id": "Dalam sebulan setelah peluncuran produk baru, penjualan mencapai"
+      },
+      {
+        "ko": "10%의 가격 인하 덕분에 회사 매출이 두 배로 늘어났다",
+        "id": "Penjualan perusahaan meningkat dua kali lipat berkat"
+      }
+    ],
+    "page": 75
+  },
+  {
+    "id": 30,
+    "hangul": "수입",
+    "meaningId": "impor",
+    "examples": [
+      {
+        "ko": "많은 사람들이 한국 제품을 수입하여 인도네시아에서 팔고 있다",
+        "id": "Banyak orang mengimpor produk Korea untuk dijual di Indonesia"
+      },
+      {
+        "ko": "수입 규제가 완화되어 외국산 제품을 더 쉽게 살 수 있게 되었다",
+        "id": "Pelonggaran regulasi impor memudahkan pembelian produk asing"
+      },
+      {
+        "ko": "수입에 대한 엄격한 규제가 수입량을 효과적으로 감소시킬 수 있다",
+        "id": "Regulasi ketat terhadap impor dapat secara efektif mengurangi"
+      }
+    ],
+    "page": 78
+  },
+  {
+    "id": 31,
+    "hangul": "예산",
+    "meaningId": "budget; anggaran",
+    "examples": [
+      {
+        "ko": "이 사업을 시작하려면 충분한 예산이 필요하다",
+        "id": "Diperlukan anggaran yang memadai untuk memulai bisnis ini"
+      },
+      {
+        "ko": "정부는 복지 증진을 위해 내년도 예산을 늘리기로 했다",
+        "id": "Pemerintah memutuskan menaikkan anggaran tahun depan untuk"
+      },
+      {
+        "ko": "같은 산업 내에서도 기업 규모에 따라 월급 격차가 크다",
+        "id": "Bahkan dalam industri yang sama, terdapat kesenjangan gaji"
+      }
+    ],
+    "page": 79
+  },
+  {
+    "id": 32,
+    "hangul": "공급",
+    "meaningId": "penawaran (supply)",
+    "examples": [
+      {
+        "ko": "일자리 공급이 감소하면서 실업자 수가 증가하였다",
+        "id": "Seiring menurunnya suplai lapangan kerja, jumlah pengangguran"
+      },
+      {
+        "ko": "공급 과잉 때문에 기업들은 재고 판매를 위한 할인을 실시했다",
+        "id": "Karena kelebihan suplai, perusahaan memberikan diskon untuk"
+      },
+      {
+        "ko": "사업을 시작하기 전에 시장 조사를 하는 것이 필수이다",
+        "id": "Melakukan survei pasar adalah hal wajib sebelum memulai bisnis"
+      }
+    ],
+    "page": 82
+  },
+  {
+    "id": 33,
+    "hangul": "구매",
+    "meaningId": "pembelian",
+    "examples": [
+      {
+        "ko": "소비자들은 구매 결정에 앞서 다양한 요소를 고려한다",
+        "id": "Konsumen mempertimbangkan berbagai faktor sebelum membuat"
+      },
+      {
+        "ko": "불황에는 고가 제품의 구매를 망설이는 경향이 있다",
+        "id": "Saat resesi, ada kecenderungan untuk ragu membeli produk dengan"
+      },
+      {
+        "ko": "판매량을 늘리기 위해 모든 제품에 50% 할인을 적용했다",
+        "id": "Diskon 50% diterapkan pada semua produk untuk meningkatkan"
+      }
+    ],
+    "page": 83
+  },
+  {
+    "id": 34,
+    "hangul": "사회",
+    "meaningId": "sosial; masyarakat",
+    "examples": [
+      {
+        "ko": "학교는 아이들이 처음으로 사회 생활을 배우는 곳이다",
+        "id": "Sekolah adalah tempat anak-anak pertama kali belajar kehidupan"
+      },
+      {
+        "ko": "정부는 사회적 약자를 위한 복지 정책을 확대했다",
+        "id": "Pemerintah telah memperluas kebijakan kesejahteraan untuk"
+      },
+      {
+        "ko": "우리는 깨끗한 환경을 유지하기 위해 노력해야 한다",
+        "id": "Kita harus berusaha menjaga lingkungan yang bersih"
+      }
+    ],
+    "page": 88
+  },
+  {
+    "id": 35,
+    "hangul": "고령화",
+    "meaningId": "penuaan populasi",
+    "examples": [
+      {
+        "ko": "젊은 사람들이 떠나면서 이 도시는 고령화 사회가 되었다",
+        "id": "Kota ini menjadi masyarakat yang menua seiring perginya kaum"
+      },
+      {
+        "ko": "고령화 현상은 선진국에서 공통적으로 나타나는 특징이다",
+        "id": "Fenomena penuaan populasi adalah ciri umum yang muncul di negara-"
+      },
+      {
+        "ko": "낮은 출산 수는 국가 인구 감소의 가장 큰 원인이다",
+        "id": "Jumlah kelahiran yang rendah adalah penyebab terbesar"
+      }
+    ],
+    "page": 89
+  },
+  {
+    "id": 36,
+    "hangul": "비혼",
+    "meaningId": "(memilih untuk)",
+    "examples": [
+      {
+        "ko": "비혼을 선택한 사람들은 자기 계발에 더 많은 시간을 투자한다",
+        "id": "Orang yang memilih untuk tidak menikah menginvestasikan lebih"
+      },
+      {
+        "ko": "비혼은 개인의 선택이지만 저출산 문제와도 연관이 있다",
+        "id": "Tidak menikah adalah pilihan pribadi, tetapi juga terkait dengan"
+      },
+      {
+        "ko": "대화와 소통은 화목한 가족을 만드는 핵심이다",
+        "id": "Dialog dan komunikasi adalah kunci untuk menciptakan keluarga"
+      }
+    ],
+    "page": 92
+  },
+  {
+    "id": 37,
+    "hangul": "세대",
+    "meaningId": "generasi",
+    "examples": [
+      {
+        "ko": "MZ세대에 대한 부정적인 인식을 가지고 있는 사람들이 많다",
+        "id": "Banyak orang yang memiliki persepsi negatif tentang generasi MZ"
+      },
+      {
+        "ko": "세대 차이는 직장 내에서도 흔히 발생하는 문제 중 하나이다",
+        "id": "Perbedaan generasi adalah salah satu masalah yang sering terjadi di"
+      },
+      {
+        "ko": "갈등을 해결하기 위해 대화와 소통이 필수적이다",
+        "id": "Dialog dan komunikasi sangat penting untuk menyelesaikan"
+      }
+    ],
+    "page": 93
+  },
+  {
+    "id": 38,
+    "hangul": "다양성",
+    "meaningId": "keberagaman",
+    "examples": [
+      {
+        "ko": "여러 나라의 문화 다양성을 경험하는 것이 좋다",
+        "id": "Baik untuk mengalami/merasakan keragaman budaya dari berbagai"
+      },
+      {
+        "ko": "이 시장의 상품 다양성이 손님들을 끌어모은다",
+        "id": "Keragaman produk di pasar ini menarik perhatian pelanggan"
+      },
+      {
+        "ko": "건강하게 오래 사는 것이 높은 삶의 질의 기본이다",
+        "id": "Hidup sehat dan panjang umur adalah dasar dari kualitas hidup"
+      }
+    ],
+    "page": 96
+  },
+  {
+    "id": 39,
+    "hangul": "인식",
+    "meaningId": "persepsi",
+    "examples": [
+      {
+        "ko": "삶의 질에 대한 인식이 과거와 많이 달라졌다",
+        "id": "Persepsi tentang kualitas hidup telah banyak berubah dibandingkan"
+      },
+      {
+        "ko": "이혼에 대한 사회적 인식이 예전에 비해 많이 개방되었다",
+        "id": "Persepsi sosial terhadap perceraian telah jauh lebih terbuka"
+      },
+      {
+        "ko": "공동체의 문제 해결을 위해 사람들이 모여 회의를 열었다",
+        "id": "Orang-orang berkumpul dan mengadakan pertemuan untuk"
+      }
+    ],
+    "page": 97
+  },
+  {
+    "id": 40,
+    "hangul": "화제",
+    "meaningId": "perbincangan; topik hangat",
+    "examples": [
+      {
+        "ko": "그 가수의 컴백 소식이 연일 큰 화제가 되었다",
+        "id": "Kabar comeback penyanyi itu menjadi topik hangat selama berhari-"
+      },
+      {
+        "ko": "청년의 결혼 기피 현상이 사회적 화제로 떠올랐다",
+        "id": "Fenomena kaum muda yang menghindari pernikahan menjadi topik"
+      },
+      {
+        "ko": "그 정치인의 말은 큰 논란을 불러 일으켰다",
+        "id": "Perkataan politisi itu memicu kontroversi besar"
+      }
+    ],
+    "page": 100
+  },
+  {
+    "id": 41,
+    "hangul": "제도",
+    "meaningId": "sistem",
+    "examples": [
+      {
+        "ko": "육아 휴직 제도 덕분에 출산율이 증가했다",
+        "id": "Tingkat kelahiran meningkat berkat sistem cuti melahirkan"
+      },
+      {
+        "ko": "새로운 주택 제도는 청년의 주거 불안 해소를 위해 마련되었다",
+        "id": "Sistem perumahan baru disiapkan untuk mengatasi ketidakstabilan"
+      },
+      {
+        "ko": "소득 불평등은 사회 갈등으로 이어질 수 있다",
+        "id": "Ketidaksetaraan pendapatan dapat menyebabkan konflik sosial"
+      }
+    ],
+    "page": 101
+  },
+  {
+    "id": 42,
+    "hangul": "청년",
+    "meaningId": "remaja",
+    "examples": [
+      {
+        "ko": "청년은 나라의 미래를 이끌어갈 중요한 역할을 한다",
+        "id": "Kaum muda memiliki peran penting untuk memimpin masa depan"
+      },
+      {
+        "ko": "육아 부담은 청년들의 결혼을 망설이게 하는 원인이다",
+        "id": "Beban mengasuh anak adalah alasan yang membuat kaum muda ragu"
+      },
+      {
+        "ko": "정년이 지나면 더 이상 일할 수 없는 경우가 많다",
+        "id": "Banyak kasus dimana seseorang tidak dapat lagi bekerja setelah"
+      }
+    ],
+    "page": 104
+  },
+  {
+    "id": 43,
+    "hangul": "육아",
+    "meaningId": "pengasuhan anak",
+    "examples": [
+      {
+        "ko": "육아는 부모에게 가장 중요하고 힘든 역할이다",
+        "id": "Mengasuh anak adalah peran yang paling penting dan sulit bagi orang"
+      },
+      {
+        "ko": "육아 부담 때문에 청년들이 결혼을 망설인다는 의견이 있다",
+        "id": "Ada pendapat bahwa kaum muda ragu menikah karena beban"
+      },
+      {
+        "ko": "청년 실업 문제는 사회적 위기로 여겨진다",
+        "id": "Masalah pengangguran kaum muda dianggap sebagai krisis sosial"
+      }
+    ],
+    "page": 105
+  },
+  {
+    "id": 44,
+    "hangul": "기술",
+    "meaningId": "teknologi",
+    "examples": [
+      {
+        "ko": "그 회사는 새로운 기술을 개발하는 데 성공했다",
+        "id": "Perusahaan itu berhasil mengembangkan teknologi baru"
+      },
+      {
+        "ko": "디지털 기술의 급속한 도입은 교육 시스템에 큰 변화를 가져왔다",
+        "id": "Adopsi cepat atas teknologi digital membawa perubahan besar pada"
+      },
+      {
+        "ko": "과학은 세계를 이해하는 도구로 볼 수 있다",
+        "id": "Sains adalah alat untuk memahami dunia"
+      }
+    ],
+    "page": 110
+  },
+  {
+    "id": 45,
+    "hangul": "연구",
+    "meaningId": "penelitian; riset",
+    "examples": [
+      {
+        "ko": "새로운 약 개발을 위한 연구가 진행 중이다",
+        "id": "Penelitian untuk pengembangan obat baru sedang berlangsung"
+      },
+      {
+        "ko": "첨단 기술 연구 결과를 현장에 신속하게 도입해야 한다",
+        "id": "Hasil riset teknologi canggih harus segera diterapkan di lapangan"
+      },
+      {
+        "ko": "그 회사가 개발한 최첨단 기술이 삶의 질을 높여준다",
+        "id": "Teknologi tercanggih yang dikembangkan perusahaan itu"
+      }
+    ],
+    "page": 111
+  },
+  {
+    "id": 46,
+    "hangul": "자동화",
+    "meaningId": "otomatisasi",
+    "examples": [
+      {
+        "ko": "반복되는 작업은 자동화하는 것이 시간 절약에 도움이 된다",
+        "id": "Melakukan otomatisasi (untuk) pekerjaan yang berulang membantu"
+      },
+      {
+        "ko": "자동화로 인해 일자리가 줄어들 것이라는 우려가 있다",
+        "id": "Ada kekhawatiran bahwa akibat otomatisasi lapangan kerja akan"
+      },
+      {
+        "ko": "요즘 인공지능 기술이 많은 분야에서 사용된다",
+        "id": "Saat ini, teknologi kecerdasan buatan (AI) digunakan di banyak"
+      }
+    ],
+    "page": 114
+  },
+  {
+    "id": 47,
+    "hangul": "성능",
+    "meaningId": "kinerja; performa",
+    "examples": [
+      {
+        "ko": "제품의 성능을 자세히 비교해 보고 구매를 결정했다",
+        "id": "Aku memutuskan untuk membeli setelah membandingkan performa"
+      },
+      {
+        "ko": "소프트웨어 성능을 최적화하여 사용자 경험을 개선하였다",
+        "id": "(Kami) mengoptimalkan performa software dan meningkatkan"
+      },
+      {
+        "ko": "통역은 정확성이 가장 중요하며 실수하면 안 된다",
+        "id": "Akurasi adalah yang terpenting dalam penerjemahan lisan dan"
+      }
+    ],
+    "page": 115
+  },
+  {
+    "id": 48,
+    "hangul": "경쟁력",
+    "meaningId": "daya saing",
+    "examples": [
+      {
+        "ko": "이 회사는 다른 회사보다 경쟁력이 높다고 평가된다",
+        "id": "Perusahaan ini dinilai punya daya saing yang lebih tinggi daripada"
+      },
+      {
+        "ko": "기술 개발을 통해 제품 경쟁력을 높여야 한다",
+        "id": "(Kita) harus meningkatkan daya saing produk melalui pengembangan"
+      },
+      {
+        "ko": "성공에는 노력과 운이라는 두 가지 요소가 필요하다",
+        "id": "Kesuksesan memerlukan dua faktor yaitu usaha dan keberuntungan"
+      }
+    ],
+    "page": 118
+  },
+  {
+    "id": 49,
+    "hangul": "원인",
+    "meaningId": "penyebab",
+    "examples": [
+      {
+        "ko": "문제의 원인을 정확히 알아야 해결할 수 있다",
+        "id": "Kita harus mengetahui secara akurat penyebab masalah agar dapat"
+      },
+      {
+        "ko": "현재의 경제 불황은 복합적인 원인으로 인해 발생했다",
+        "id": "Resesi ekonomi saat ini terjadi karena penyebab yang kompleks"
+      },
+      {
+        "ko": "현재 시설은 오래되어 개선이 필요하다",
+        "id": "Fasilitas saat ini sudah lama sehingga membutuhkan perbaikan"
+      }
+    ],
+    "page": 119
+  },
+  {
+    "id": 50,
+    "hangul": "인공",
+    "meaningId": "artifisial",
+    "examples": [
+      {
+        "ko": "눈이 건조한 사람들은 인공 눈물을 사용하는 것이 좋다",
+        "id": "Orang-orang dengan mata kering sebaiknya menggunakan air mata"
+      },
+      {
+        "ko": "인공 잔디의 활용 범위가 점점 확장되고 있다",
+        "id": "Cakupan pemanfaatan rumput buatan semakin meluas"
+      },
+      {
+        "ko": "선생님의 좋은 말씀이 나의 미래에 큰 영향을 미쳤다",
+        "id": "Nasihat baik dari guru memberikan dampak besar pada masa"
+      }
+    ],
+    "page": 122
+  },
+  {
+    "id": 51,
+    "hangul": "과정",
+    "meaningId": "proses",
+    "examples": [
+      {
+        "ko": "이 제품을 만드는 과정은 매우 복잡하고 시간이 오래 걸린다",
+        "id": "Proses pembuatan produk ini sangat kompleks dan memakan waktu"
+      },
+      {
+        "ko": "인공지능이 복잡한 데이터 처리 과정을 단순화했다",
+        "id": "AI menyederhanakan proses pengolahan data yang kompleks"
+      },
+      {
+        "ko": "최신 기술을 도입하여 제품 품질을 높였다",
+        "id": "Kami meningkatkan kualitas produk dengan menerapkan"
+      }
+    ],
+    "page": 123
+  },
+  {
+    "id": 52,
+    "hangul": "확장성",
+    "meaningId": "ekstensibilitas; skalabilitas",
+    "examples": [
+      {
+        "ko": "사업의 확장성을 고려하여 새로운 투자를 결정했다",
+        "id": "Kami memutuskan investasi baru dengan mempertimbangkan"
+      },
+      {
+        "ko": "인공지능 기술의 확장성은 무궁무진하다",
+        "id": "Skalabilitas teknologi kecerdasan buatan tidak terbatas (tak"
+      },
+      {
+        "ko": "전문가의 의견이 맞는지 직접 정보를 찾아 검증을 했다",
+        "id": "Saya melakukan verifikasi  pendapat spesialis dengan mencari"
+      }
+    ],
+    "page": 126
+  },
+  {
+    "id": 53,
+    "hangul": "특징",
+    "meaningId": "karakteristik",
+    "examples": [
+      {
+        "ko": "이 제품의 가장 큰 특징은 뛰어난 성능이다",
+        "id": "Fitur terbesar produk ini adalah kinerjanya yang unggul"
+      },
+      {
+        "ko": "이 기계는 간단한 설치 과정이 특징으로 꼽힌다",
+        "id": "proses instalasi yang sederhana dipilih sebagai ciri-ciri mesin ini"
+      },
+      {
+        "ko": "성공하기 위해서는 끊임없이 자기 능력을 키워야 한다",
+        "id": "Untuk sukses, kita harus terus-menerus mengembangkan"
+      }
+    ],
+    "page": 127
+  }
+]
